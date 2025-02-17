@@ -1,121 +1,162 @@
-# FADE IN: Scene 1
+Title: HIDDEN ONES
 
-## INT. DARK CHAMBER – DREAM SEQUENCE
+# **FADE IN: Chapter 1 - Scene 1**
 
-*The sound of dripping water. The clinking of iron shackles.*
+## **INT. UNKNOWN TEMPLE – DREAM SEQUENCE**
 
-*A dimly lit chamber—**stone walls**, damp and ancient, like a **prison beneath a forgotten kingdom**. Torches flicker, casting eerie shadows across the bloodstained floor.*
+*A thick **shroud of darkness**. The faint flicker of torches barely pushes back the gloom.*
 
-*JOHNATHAN stands in the center, bound in iron chains. His chest rises and falls rapidly. He’s **dressed in camel skin rags**, breathing heavily, his mind racing. He doesn’t know how he got here—only that **he isn’t alone.***
+*A vast chamber—**ancient, forgotten**. The stone walls are lined with **faded inscriptions**, their meaning lost to time. The air is heavy with **something unspoken**, something pressing against the chest like a buried memory clawing its way to the surface.*
 
-*There are others… **dozens of men in chains** lined up beside him. Some **whisper prayers**, others **weep silently**. A few stare **blankly ahead**, their fate already accepted. The air is thick with the **stench of fear.***
+*Jonathan **watches from the shadows**, unseen but present. He doesn’t know where he is, yet **he feels like he’s been here before.***  
 
-*A booming voice echoes through the chamber—cold, commanding.*
+*At the center of the chamber, a group of **cloaked figures** stand in a **loose circle** around a raised altar. Their faces are hidden beneath deep hoods, their voices murmuring in a **language Jonathan doesn’t recognize… but somehow understands.***  
 
+*A relic rests atop the altar—a **breastplate**, its surface **dull with age**, but faintly etched with **symbols that pulse in the dim firelight.***  
+
+*One of the figures—**a leader**, more ornate than the rest—raises a hand. The murmuring ceases.*  
+
+*A sharp **hiss of steel** echoes as **a ceremonial dagger is drawn.***  
+
+*A shrouded figure kneels before the altar. Their head is bowed, their breathing ragged. The leader **lifts the blade.***  
+
+*Jonathan’s heart pounds. He wants to move, to speak—but his body refuses. He is **trapped**, locked inside this moment.*  
+
+*The dagger **slashes downward.***  
+
+*Blood spills onto the breastplate, seeping into its engravings.*  
+
+*A sudden **roar of sound—**an earthquake? A command? The chamber trembles.*  
+
+*The hooded leader slowly turns their head…*  
+
+*And **looks directly at Jonathan.***  
+
+*A voice—**not from the figure, but inside Jonathan’s mind**—whispers in a tone that is both familiar and terrifying.*  
+
+**UNKNOWN VOICE (O.S.)**  
+*"You were there."*  
+
+*Jonathan’s breath catches. The room tilts, distorting. The shadows **rush toward him**, swallowing everything—*
+
+---
+
+# **SMASH CUT TO:**
+
+## **INT. DARK CHAMBER – DREAM SEQUENCE CONTINUES**
+
+*Jonathan **jerks awake**—but he’s **still in the dream.***  
+
+*The flickering torches remain, but now he is **no longer an observer.** He is **here.***  
+
+*Iron chains bite into his wrists. His breathing is **sharp, uneven.** His heart pounds in his chest, but he can’t remember **why.***  
+
+*He is **not alone.** Dozens of men stand in line beside him, **bound in shackles.** Their eyes are hollow, their faces streaked with sweat and dirt. Some whisper **prayers**; others are **silent, resigned to fate.***  
+
+*A deep, cold voice **booms across the chamber.***  
 
 **EXECUTIONER (O.S.)**  
-*"Bring the next one."*
+*"Bring the next one."*  
 
-*A door creaks open, and **a guard yanks a prisoner from the line.** The man **struggles**—screaming, pleading—but it doesn’t matter. The guard **drags him forward**, past Johnathan, toward a **massive stone block** at the front of the chamber.*
+*A **heavy door creaks open.** A guard yanks a prisoner from the line, dragging him forward. The man **struggles, pleading.** But it doesn’t matter.*  
 
-*Johnathan watches, frozen, his pulse pounding in his ears. He **knows what’s coming.** He tries to move, but **his body won’t obey**. It’s as if he’s anchored in place, **forced to witness.***
-
-*A HOODED EXECUTIONER steps forward, raising a massive **iron axe**. The prisoner’s head is forced down onto the **stone block**. He **screams for mercy.** The crowd of onlookers—nobles dressed in dark robes—**watches in silence.***
-
-*Then—*
+*Jonathan watches, frozen, as the prisoner is forced down onto a massive **stone block**. His screams fill the air—*  
 
 **SHHHHHRK!**  
 
-*The blade comes down in a single, brutal motion. Blood splatters across the stone. The body **twitches once**—then goes still.*
+*The executioner’s blade falls. Blood splatters onto the stone. The body **twitches once**—then goes still.*  
 
-*Johnathan **gasps**, heart hammering. He tries to look away, but he **can’t.** He can **feel the warmth of the blood** on his skin. It’s real. It’s all too real.*
+*Jonathan **gasps**, his body jerking instinctively. He **feels the warmth of the blood**, though it hasn’t touched him. It’s real. It’s all **too real.***  
 
-*And then… the guard’s eyes turn to him.*
+*And then—*  
+
+*The guard’s eyes **turn to him.***  
 
 **GUARD**  
-*"Next."*
+*"Next."*  
 
-*The chains around Johnathan’s wrists tighten. He’s being **pulled forward.** He **fights**, but it’s **futile.** His **feet scrape against the stone** as the guards drag him toward the execution block.*
+*The chains tighten. Jonathan is **yanked forward.** He fights, but it’s **futile.** The air is thick, suffocating. He can hear **the murmurs of the other prisoners**—some whisper his name. Others **bow their heads.***  
 
-*The prisoners beside him whisper urgently—some **cry his name.** Others **bow their heads.***
-
-*A voice—a deep, unshakable voice—**whispers in Johnathan’s mind.***  
-
-
+*A voice—**the same voice as before**—echoes in his mind, deep and unshakable.*  
 
 **UNKNOWN VOICE (O.S.)**  
 *"You know how this ends."*  
 
-*Johnathan **grits his teeth**, thrashing against the guards. But their grip is **unbreakable.***
+*Jonathan **grits his teeth**, thrashing against the guards, but their grip is **unbreakable.***  
 
-*The stone block awaits. The **executioner’s blade glistens**, wet with blood.*
+*The stone block awaits. The executioner’s blade glistens, **still wet.***  
 
 **EXECUTIONER**  
-*"Kneel."*
+*"Kneel."*  
 
-*Johnathan is **forced down**. His **cheek presses against the cold stone**. The executioner **raises the axe** high above his head.*
+*Jonathan is **forced down**. His cheek **presses against the cold stone.** The executioner lifts the axe, **high above his head.***  
 
-*Johnathan’s **breath quickens.** This isn’t just a dream. **This has happened before.** He’s **been here.** He’s **felt this.***
+*Jonathan’s breath quickens. His vision **blurs.** This isn’t just a dream.*  
 
-*A thought cuts through his fear, clear as thunder—*
+**This has happened before.**  
 
-*"This is how John .....  died."*
+*A thought cuts through his fear, clear as thunder—*  
 
-*And then—*
+*"This is how John… died."*  
 
-**SHHHHHRK!**
+**SHHHHHRK!**  
 
 ---
 
-# SMASH CUT TO:
+# **SMASH CUT TO:**
 
-## INT. BEDROOM – NIGHT
+## **INT. BEDROOM – NIGHT**  
 
-*Johnathan jolts **upright** in bed—**GASPING, DRENCHED IN SWEAT.** His breath comes in **ragged, panicked bursts.** The dim glow of a bedside lamp flickers on.*
+*Jonathan **jerks upright in bed—**GASPING, DRENCHED IN SWEAT. His breath comes in **ragged, panicked bursts.** The dim glow of a bedside lamp flickers on.*  
 
-*Beside him, **his girlfriend stirs**, her hand **instantly reaching for him.***  
+*Beside him, **Rebecca stirs, her hand reaching for him.***  
 
-**GIRLFRIEND**  
-*"Babe? Johnathan—hey, hey, it’s okay!"*  
+**REBECCA**  
+*"Babe? Jonathan—hey, hey, it’s okay!"*  
 
-*She **cups his face**, worry deep in her wide, **blue eyes**. Johnathan **doesn’t answer**—he’s **staring at his hands.** They **tremble.** He **swears he can still feel the chains.** The coldness of the stone. The final moment before the blade…*
+*She **cups his face**, worry deep in her wide, **blue eyes.** Jonathan doesn’t answer—he’s **staring at his hands.** They **tremble.** He swears he can still feel the **chains.** The coldness of the stone. The final moment before the blade…*  
 
-*He shudders. Swallows hard. Finally **meets her gaze**.*
+*He shudders. Swallows hard. Finally **meets her gaze.***  
 
-**GIRLFRIEND**  
+**REBECCA**  
 *"Was it the dream again?"*  
 
-*Johnathan **runs a hand through his damp hair**. His **chest rises and falls, his heartbeat still erratic.** He finally nods, voice **hoarse.***
+*Jonathan **runs a hand through his damp hair.** His **chest rises and falls, his heartbeat still erratic.** He finally nods, voice **hoarse.***  
 
-**JOHNATHAN**  
+**Jonathan**  
 *"Yeah. Same one."*  
 
-**GIRLFRIEND**  
+**REBECCA**  
 *"Baby, that’s the third time this week."*  
 
-*She moves closer, resting a **gentle hand on his arm.** Her concern is real—but Johnathan is barely listening. His **mind is still trapped** in that chamber, **that moment.***
+*She moves closer, resting a **gentle hand on his arm.** Her concern is real—but Jonathan is barely listening. His **mind is still trapped** in that chamber, that moment.*  
 
 *He forces a breath, leans forward, elbows on his knees.*  
 
-**JOHNATHAN**  
+**Jonathan**  
 *"I’ve been having these dreams since I was a kid."*  
 
 *He looks at her, **eyes shadowed.** There’s something deeper in his voice now—**a fear he won’t admit.** A truth he doesn’t want to say aloud.*  
 
-**JOHNATHAN**  
-*"But this one… it’s getting worse."*
+**Jonathan**  
+*"But this one… it’s getting worse."*  
 
 *She hesitates. Then—softly, carefully—*  
 
-**GIRLFRIEND**  
-*"What if it means something?"*
+**REBECCA**  
+*"What if it means something?"*  
 
-*Johnathan **stiffens.** His jaw tightens. He **shakes his head.***  
+*Jonathan **stiffens.** His jaw tightens. He **shakes his head.***  
 
-**JOHNATHAN**  
-*"It doesn’t."*
+**Jonathan**  
+*"It doesn’t."*  
 
-*But even as he says it—**he knows he’s lying.***
+*But even as he says it—**he knows he’s lying.***  
+
+---
+
+# **FADE TO BLACK.**
+
 
 ---
 
@@ -127,14 +168,14 @@
 
 ## INT. BEDROOM – NIGHT
 
-*The soft hum of the city outside. The bedside lamp **casts a warm glow**, flickering slightly as **Rebecca** watches Johnathan, concern still etched on her face.*
+*The soft hum of the city outside. The bedside lamp **casts a warm glow**, flickering slightly as **Rebecca** watches Jonathan, concern still etched on her face.*
 
 **REBECCA**  
 *"You sure you're okay?"*
 
-*Johnathan exhales slowly, rubbing his face with both hands. His body still **feels the weight** of the dream—**the chains, the cold stone, the final moment.** But he nods anyway.*
+*Jonathan exhales slowly, rubbing his face with both hands. His body still **feels the weight** of the dream—**the chains, the cold stone, the final moment.** But he nods anyway.*
 
-**JOHNATHAN**  
+**Jonathan**  
 *"Yeah… yeah, I’m good."*
 
 *She **doesn’t believe him,** but she also knows pushing won’t get her anywhere. Instead, she **brushes a hand over his arm, squeezing gently.***  
@@ -146,7 +187,7 @@
 
 *As his eyes close, he whispers—almost to himself—*
 
-**JOHNATHAN**  
+**Jonathan**  
 *"It felt real."*
 
 *Rebecca, half-asleep now, murmurs back—*
@@ -154,29 +195,29 @@
 **REBECCA**  
 *"Dreams always do."*
 
-*But deep down, Johnathan **knows better.***
+*But deep down, Jonathan **knows better.***
 
 ---
 
-## INT. JOHNATHAN'S APARTMENT – MORNING
+## INT. Jonathan'S APARTMENT – MORNING
 
-*A **sharp alarm buzzes.** The city is alive now—**cars honking, distant voices, the sizzle of bacon in a nearby apartment.** Rebecca moves around the kitchen, pouring coffee, while Johnathan finishes tying his **black techwear boots.***  
+*A **sharp alarm buzzes.** The city is alive now—**cars honking, distant voices, the sizzle of bacon in a nearby apartment.** Rebecca moves around the kitchen, pouring coffee, while Jonathan finishes tying his **black techwear boots.***  
 
 *She slides his mug toward him as he steps up to the counter, **grabbing a quick sip.** His face is still groggy, but he’s forcing himself into **work mode.** Rebecca eyes him over her own coffee.*  
 
 **REBECCA**  
 *"Better sleep?"*
 
-**JOHNATHAN** *(dryly)*  
+**Jonathan** *(dryly)*  
 *"Barely."*
 
-*Before she can say anything else, **a car horn blares from outside.** Johnathan checks the time—**Malcolm’s here.** He downs the rest of his coffee, grabs his **EdenTech badge,** and heads for the door. Rebecca follows.*
+*Before she can say anything else, **a car horn blares from outside.** Jonathan checks the time—**Malcolm’s here.** He downs the rest of his coffee, grabs his **EdenTech badge,** and heads for the door. Rebecca follows.*
 
 ---
 
 ## EXT. BROOKLYN STREET – MORNING
 
-*A sleek **black sedan** idles at the curb. **Malcolm Grant**, always **calm under pressure**, leans against the driver’s side, scrolling through his phone. He looks up as **Johnathan and Rebecca step outside.***  
+*A sleek **black sedan** idles at the curb. **Malcolm Grant**, always **calm under pressure**, leans against the driver’s side, scrolling through his phone. He looks up as **Jonathan and Rebecca step outside.***  
 
 **MALCOLM** *(grinning)*  
 *"You look like hell, man."*
@@ -191,20 +232,20 @@
 **MALCOLM**  
 *"Yes, ma’am. Keeping him in check is my full-time job."*
 
-*Rebecca shakes her head with a **knowing smile** before getting into her car. Johnathan opens the **passenger door** and climbs in.*
+*Rebecca shakes her head with a **knowing smile** before getting into her car. Jonathan opens the **passenger door** and climbs in.*
 
 ---
 
 ## INT. MALCOLM’S CAR – DRIVING – MORNING
 
-*The city rushes past as Malcolm **navigates the morning traffic.** A faint **hip-hop instrumental** plays low in the background. Johnathan leans back, still trying to shake off the **lingering unease** from the dream.*  
+*The city rushes past as Malcolm **navigates the morning traffic.** A faint **hip-hop instrumental** plays low in the background. Jonathan leans back, still trying to shake off the **lingering unease** from the dream.*  
 
 *MALCOLM glances over.*  
 
 **MALCOLM**  
 *"You good? You actually look worse than usual."*
 
-**JOHNATHAN** *(scoffs, shaking his head)*  
+**Jonathan** *(scoffs, shaking his head)*  
 *"Didn’t sleep much."*
 
 *MALCOLM doesn’t push it. Instead, he shifts gears—both literally and figuratively.*  
@@ -212,9 +253,9 @@
 **MALCOLM**  
 *"Yo, so you hear the buzz? The **promotion spot** is officially open."*
 
-*That gets Johnathan’s attention. He **glances over**, expression neutral.*  
+*That gets Jonathan’s attention. He **glances over**, expression neutral.*  
 
-**JOHNATHAN**  
+**Jonathan**  
 *"You putting in for it?"*
 
 *MALCOLM smirks but doesn’t answer immediately. Instead, he takes a turn, fingers **tapping the steering wheel.***  
@@ -222,22 +263,22 @@
 **MALCOLM**  
 *"I mean… I should be a **top choice.** But you know how these corporate types are."*  
 
-*Johnathan huffs a **short laugh, shaking his head.***  
+*Jonathan huffs a **short laugh, shaking his head.***  
 
-**JOHNATHAN**  
+**Jonathan**  
 *"You saying it’s rigged?"*
 
 **MALCOLM** *(shrugging)*  
 *"I’m saying... **who they pick and why** ain't always about skill."*
 
-*Johnathan leans his head against the **window**, watching the city blur past. He **knows Malcolm's right.** He also knows **he could gun for it himself.** But something in him hesitates.*  
+*Jonathan leans his head against the **window**, watching the city blur past. He **knows Malcolm's right.** He also knows **he could gun for it himself.** But something in him hesitates.*  
 
 **MALCOLM**  
 *"What about you? You throwing in?"*
 
-*A pause. Johnathan exhales, rubbing his jaw before finally answering—*  
+*A pause. Jonathan exhales, rubbing his jaw before finally answering—*  
 
-**JOHNATHAN**  
+**Jonathan**  
 *"Haven’t decided."*
 
 *MALCOLM gives him a **knowing look** but lets it go. Instead, he **switches topics.***  
@@ -245,15 +286,15 @@
 **MALCOLM**  
 *"You hear about the **new project**?"*
 
-**JOHNATHAN** *(glancing over)*  
+**Jonathan** *(glancing over)*  
 *"The archaeology thing?"*
 
 **MALCOLM** *(nodding)*  
 *"Yeah. Word is, **EdenTech’s bringing in artifacts** from a major excavation overseas. Higher-ups been *real* hush-hush about it, but IT’s already on **security lockdown mode.** Whatever it is, it’s big."*
 
-*Johnathan’s **brows furrow slightly.** The word **artifacts** stirs something... **uneasy.** He shifts in his seat.*  
+*Jonathan’s **brows furrow slightly.** The word **artifacts** stirs something... **uneasy.** He shifts in his seat.*  
 
-**JOHNATHAN**  
+**Jonathan**  
 *"You know what they found?"*
 
 *MALCOLM shakes his head, gripping the wheel a little tighter.*  
@@ -265,33 +306,177 @@
 
 *The car slows as they **approach EdenTech headquarters**, the **massive glass skyscraper** reflecting the morning sun. Malcolm pulls into the underground parking lot, killing the engine.*
 
-*MALCOLM leans back, throwing a smirk at Johnathan.*  
+*MALCOLM leans back, throwing a smirk at Jonathan.*  
 
 **MALCOLM**  
 *"So… **promotion or not?**"*
 
-*Johnathan unbuckles, **smirking faintly but keeping his answer to himself.** He pushes the door open and steps out.*
+*Jonathan unbuckles, **smirking faintly but keeping his answer to himself.** He pushes the door open and steps out.*
 
 # FADE TO BLACK.
 
 
-# FADE IN: Scene 3
+
+# **FADE IN: Chapter 1-Scene 3** 
+
+## **EXT. JERUSALEM – HEROD’S TEMPLE DIG SITE – NIGHT**
+
+*A **dusty wind** moves through the excavation site, the remnants of **Herod’s Temple** standing as a **monument of history and ruin.** The night air carries a faint scent of **earth and stone**, as if time itself lingers over the ruins. Beneath the harsh glare of **floodlights**, archaeologists, preservationists, and excavation engineers work meticulously, unearthing layers of **forgotten history** buried under centuries of debris.*
+
+*A **temporary research tent** flaps in the wind, illuminated from within. Inside, **holographic projections and satellite imaging** overlay historical maps, reconstructing what once stood before the **Roman destruction of 70 CE.***  
+
+---
+
+## **INT. TEMPORARY FIELD HQ – NIGHT**
+
+*Dr. **Marcus Strauss**, late 50s, sharp yet weary, stands over a **digital reconstruction of Herod’s Temple**. The holo-display flickers, showing **layers of the ancient structure**, each level containing the **secrets of an empire lost to war.***  
+
+*Across from him, **Dr. Eva Mendez**, early 40s, intelligent, methodical, and **deeply invested in this discovery**, studies the **rotating 3D model** with keen interest.*  
+
+**DR. MENDEZ** *(studying the model)*  
+*"Standing here, beneath this ruin, you realize… Herod’s Temple was never truly sacred, was it?"*
+
+*Strauss exhales, adjusting his glasses as the projection zooms in on the **inner court.** His voice is measured, but there’s something **distant** in his tone.*  
+
+**DR. STRAUSS**  
+*"It was a monument to power. Built not by a king of divine appointment, but by an **Edomite ruling in the place of Israelites**. A man whose bloodline was only permitted rule because of **forced conversion generations prior.**"*
+
+*Mendez tilts her head slightly, intrigued.*  
+
+**DR. MENDEZ**  
+*"John Hyrcanus. The Hasmonean ruler who forced the Edomites to accept Judaism?"*
+
+**DR. STRAUSS** *(nodding)*  
+*"Yes. After Judea expanded under his reign, the Edomites—**Herod’s ancestors**—were forcibly converted. But power doesn’t change lineage. Herod was **never truly accepted** by the people. His temple? It was **not built in reverence to the God of Israel, but to secure legitimacy** through grandeur."*
+
+*Mendez crosses her arms, eyes narrowing slightly.*  
+
+**DR. MENDEZ**  
+*"A temple meant to cement his **political rule**, not for true worship. And yet, it still became the center of revolts."*
+
+**DR. STRAUSS** *(exhaling deeply)*  
+*"Because he ruled a people that would never fully accept him. That’s why he married into the **Hasmonean dynasty.** Mariamne I—the last true Israelite princess."*
+
+*Mendez raises a brow, intrigued.*  
+
+**DR. MENDEZ**  
+*"So he tried to **legitimize his rule** through marriage?"*
+
+**DR. STRAUSS** *(grimly)*  
+*"Yes. But when power is your only god, there can be no rivals. Herod **murdered Mariamne, killed his own children, and erased any bloodline** that could claim true Hasmonean heritage. Later, he **remarried into his own people**, ensuring his dynasty would be purely Edomite going forward."*
+
+*Mendez shakes her head, watching the **holo-display shift** to the Roman siege of 70 CE.*  
+
+**DR. MENDEZ** *(softly, thinking aloud)*  
+*"So why do we still keep his traditions?"*
+
+*Strauss exhales through his nose, leaning back against the table.*  
+
+**DR. STRAUSS**  
+*"Because he was **raised among Israelites**, studied under their teachers, learned their ways. And when he seized power, he **ensured their customs remained**—even after his bloodline had been purged from their midst. The rituals, the priesthood, even aspects of religious governance today… all carry remnants of **Herod’s reign.**"*
+
+*Mendez watches him carefully, sensing something unspoken beneath his words.*  
+
+**DR. MENDEZ**  
+*"And yet, we never discuss this in academia."*
+
+*Strauss lets out a short, humorless chuckle.*  
+
+**DR. STRAUSS** *(dryly)*  
+*"No. Because if you speak of this, the **historical community will deny it, ostracize you, cut your career off.** These facts exist, but they are... inconvenient."*
+
+*Mendez considers that, staring at the flickering holo-image of Herod’s Temple. The wind outside rattles the tent walls, as if the past itself refuses to stay buried.*  
+
+**DR. STRAUSS** *(quietly, almost to himself)*  
+*"Sigh... we have a lot to pay for if retribution is ever demanded and required of us."*  
+
+*A long silence lingers. Then—*  
+
+*A sharp **beep** from his radio interrupts the moment.*  
+
+**FIELD ARCHAEOLOGIST (V.O.)** *(urgent, over radio)*  
+*"Dr. Strauss, we’ve found something. You need to see this."*
+
+*Mendez and Strauss exchange a glance before stepping outside.*  
+
+---
+
+## **EXT. HEROD’S TEMPLE DIG SITE – MAIN EXCAVATION AREA – NIGHT**
+
+*A team of **archaeologists and preservationists** gathers around a **partially unearthed vault**, deep within the **foundation of Herod’s Temple**. The **ancient stone casing** has been **sealed for centuries**, its inscriptions **barely legible** beneath layers of dust and time.*  
+
+*A nervous **field assistant** wipes sweat from his forehead as Strauss and Mendez arrive.*  
+
+**FIELD ASSISTANT**  
+*"We were stabilizing the lower chamber when we uncovered this vault. It doesn’t match the Roman-era structures—it’s **older**."*
+
+*Mendez crouches beside the stone lid, carefully brushing away **centuries of debris.** Her eyes narrow as she deciphers the faded engravings.*  
+
+**DR. MENDEZ** *(reading)*  
+*"High Priest... garments… preserved... holy relics?"*  
+
+*Strauss watches as another **team member carefully pries the lid open.** The stone **groans in protest**, releasing a **stale gust of air**—the first breath this chamber has taken in **two thousand years.***  
+
+---
+
+## **INT. UNDERGROUND CHAMBER – NIGHT**
+
+*Inside the vault, **several artifacts lay preserved in the dust**—small fragments of history untouched by time. The team moves carefully, cataloging each discovery.*  
+
+### **ITEMS FOUND IN THE VAULT:**
+✔ **A golden goblet** – engraved with **priestly symbols**, possibly used in **rituals of purification.**  
+✔ **A set of weighted scales** – small, but **perfectly balanced**, believed to have been used in **temple offerings.**  
+✔ **A faded scroll fragment** – wrapped in deteriorating leather, the text too fragile to decipher.  
+✔ **A tattered garment** – aged beyond recognition, but **fibers reveal it to be camel’s hair.**  
+
+*Mendez holds up the **camel’s hair garment**, frowning.*  
+
+**DR. MENDEZ**  
+*"This… isn’t temple priest attire."*
+
+*Strauss’ eyes drift to the **last artifact**—a **small, tarnished breastplate**, forgotten in the dust.*  
+
+*Unlike the other artifacts, it isn’t **gold-plated or extravagant**. It looks… **simple. Ancient.** Overlooked.*  
+
+**DR. STRAUSS** *(thoughtful, to himself)*  
+*"And yet… it’s here."*
+
+*Mendez glances at him, sensing the weight of the moment.*  
+
+**DR. MENDEZ**  
+*"Should we mark it for high priority?"*  
+
+*Strauss hesitates, then shakes his head.*  
+
+**DR. STRAUSS**  
+*"No. It’s not the primary find."*  
+
+*Mendez nods, but something **lingers** in her gaze. This chamber held more than **forgotten relics.** It held a **forgotten truth.***  
+
+# **FADE TO BLACK.**
+
+
+
+
+
+
+# FADE IN: Scene 4
 
 ## INT. EDENTECH HEADQUARTERS – MAIN LOBBY – MORNING
 
 *A **futuristic corporate tower**, sleek and modern, its **glass façade reflecting the city skyline**. Inside, the lobby is a blend of **advanced security checkpoints, biometric scanners, and digital displays cycling through corporate achievements.** Employees in **tailored business attire** and **high-tech ID badges** move with purpose.*
 
-*Johnathan and Malcolm step through the rotating glass doors. A **holographic interface** scans their badges as they pass security.*
+*Jonathan and Malcolm step through the rotating glass doors. A **holographic interface** scans their badges as they pass security.*
 
 **SECURITY AI (V.O.)**  
-*"Welcome, Johnathan Reeves. Welcome, Malcolm Grant."*
+*"Welcome, Jonathan Reeves. Welcome, Malcolm Grant."*
 
 *MALCOLM smirks, adjusting his blazer.*  
 
 **MALCOLM**  
 *"Gotta love a job that knows your name before you even say it."*
 
-**JOHNATHAN** *(dryly)*  
+**Jonathan** *(dryly)*  
 *"Yeah. Real personal touch."*
 
 *As they walk toward the elevators, a few **colleagues glance their way**, exchanging nods. **Everyone knows about the open promotion.** The air is charged with **silent competition.***  
@@ -299,7 +484,7 @@
 **MALCOLM** *(leaning in, voice low)*  
 *"They’re watching. All of them."*
 
-**JOHNATHAN** *(smirks)*  
+**Jonathan** *(smirks)*  
 *"Let them. I plan on winning."*
 
 *MALCOLM chuckles, shaking his head as they step into the **elevator**. The doors slide shut, and the soft hum of ascent fills the silence.*
@@ -312,7 +497,7 @@
 
 *At the center of the floor, **TESSA VARGAS** sits at her desk, casually **spinning a stylus between her fingers** while skimming through **multiple security logs.** Dressed in a **stylish yet functional ensemble**, she gives off an air of **effortless confidence.***  
 
-*As Johnathan and Malcolm approach, she leans back, eyebrow raised.*  
+*As Jonathan and Malcolm approach, she leans back, eyebrow raised.*  
 
 **TESSA**  
 *"Look at you two—our very own **gladiators of corporate warfare.** Should I start placing bets?"*
@@ -322,10 +507,10 @@
 **MALCOLM**  
 *"Please. You already know who the house favorite is."*
 
-**JOHNATHAN** *(grinning)*  
+**Jonathan** *(grinning)*  
 *"Yeah—me."*
 
-*Tessa lets out a **mock gasp** before giving Johnathan a **playful shove** on the shoulder.*  
+*Tessa lets out a **mock gasp** before giving Jonathan a **playful shove** on the shoulder.*  
 
 **TESSA**  
 *"Oh? Big talk. But I dunno, John, you sure you can handle the pressure? Malcolm here’s already **rehearsing his victory speech.**"*
@@ -335,13 +520,13 @@
 **MALCOLM**  
 *"Ladies and gentlemen, I’d like to thank myself for always believing in me—"*
 
-*Johnathan rolls his eyes, shaking his head with a **chuckle** as he sets down his bag and powers up his workstation. His monitor floods with **security alerts, protocol assignments, and project directives.** One notification catches his eye.*  
+*Jonathan rolls his eyes, shaking his head with a **chuckle** as he sets down his bag and powers up his workstation. His monitor floods with **security alerts, protocol assignments, and project directives.** One notification catches his eye.*  
 
 ---
 
 ## ON SCREEN: **NEW PROJECT INITIATIVE – SECURITY CLEARANCE REQUIRED**  
 
-*Johnathan **narrows his eyes** as he clicks the notification. The system **flashes red**—ACCESS DENIED. The project name is simply listed as:*
+*Jonathan **narrows his eyes** as he clicks the notification. The system **flashes red**—ACCESS DENIED. The project name is simply listed as:*
 
 ### **"ARCHAEOLOGICAL INTAKE & SECURITY PROTOCOLS"**
 
@@ -350,12 +535,12 @@
 **MALCOLM**  
 *"You seeing this?"*
 
-*Johnathan **nods**, drumming his fingers on the desk. Tessa, now curious, **spins her chair toward them.***  
+*Jonathan **nods**, drumming his fingers on the desk. Tessa, now curious, **spins her chair toward them.***  
 
 **TESSA**  
 *"Ohhh, what’s got you two all serious?"*
 
-*MALCOLM gestures toward Johnathan’s screen.*  
+*MALCOLM gestures toward Jonathan’s screen.*  
 
 **MALCOLM**  
 *"Rumor’s true. Something big is coming in."*
@@ -365,7 +550,7 @@
 **TESSA**  
 *"Big like **VIP big**, or big like **'we need to start asking questions' big?**"*
 
-**JOHNATHAN** *(thoughtful)*  
+**Jonathan** *(thoughtful)*  
 *"Not sure yet. But if they’ve got **security access locked down** before the briefing, it’s serious."*
 
 *MALCOLM smirks, arms crossed.*  
@@ -383,7 +568,7 @@
 **MALCOLM**  
 *"Or something worth **protecting**."*
 
-*A beat of silence. Johnathan stares at the **red-denied access screen**, a strange **unease curling in his gut.** He doesn’t know why, but something about this project feels... **different.***
+*A beat of silence. Jonathan stares at the **red-denied access screen**, a strange **unease curling in his gut.** He doesn’t know why, but something about this project feels... **different.***
 
 *Before he can dwell on it, an **intercom announcement** crackles overhead.*  
 
@@ -397,25 +582,25 @@
 **MALCOLM**  
 *"Guess we’ll be getting some answers after all."*
 
-*Tessa watches as **Johnathan lingers**, still staring at his monitor. She leans in slightly.*  
+*Tessa watches as **Jonathan lingers**, still staring at his monitor. She leans in slightly.*  
 
 **TESSA**  
 *"Hey. You okay?"*
 
-*Johnathan blinks, snapping out of his thoughts. He exhales and nods.*  
+*Jonathan blinks, snapping out of his thoughts. He exhales and nods.*  
 
-**JOHNATHAN**  
+**Jonathan**  
 *"Yeah. Just thinking."*
 
 **TESSA** *(grinning as she stands)*  
 *"Dangerous habit, my friend."*
 
-*MALCOLM claps Johnathan’s shoulder as they head for the exit.*  
+*MALCOLM claps Jonathan’s shoulder as they head for the exit.*  
 
 **MALCOLM**  
 *"Come on, man. Let’s see what kind of **ancient treasure** they’re dropping in our laps."*
 
-*As the trio walks toward the **executive briefing room**, Johnathan can’t shake the feeling that whatever they’re about to learn—it’s only the beginning.*
+*As the trio walks toward the **executive briefing room**, Jonathan can’t shake the feeling that whatever they’re about to learn—it’s only the beginning.*
 
 # FADE TO BLACK.
 
@@ -423,7 +608,7 @@
 
 
 
-# FADE IN: Scene 4
+# FADE IN: Scene 5
 
 ## INT. EDENTECH HEADQUARTERS – EXECUTIVE CONFERENCE ROOM – MORNING
 
@@ -431,7 +616,7 @@
 
 *Sitting at the head of the table, **GREGORY SHAW**—CEO of EdenTech. His expression is unreadable, his **hands folded calmly** as he watches the others take their seats. Around him, a mix of **executives, cybersecurity leads, and key researchers** from the archaeology team sit in anticipation.*
 
-*Johnathan, Malcolm, and Tessa settle into their seats near the **security team section.** The tension in the room is palpable.*
+*Jonathan, Malcolm, and Tessa settle into their seats near the **security team section.** The tension in the room is palpable.*
 
 ---
 
@@ -449,12 +634,12 @@
 
 ---
 
-*Johnathan **leans forward**, eyes narrowing slightly. **This isn’t just any dig.***
+*Jonathan **leans forward**, eyes narrowing slightly. **This isn’t just any dig.***
 
 **DR. STRAUSS**  
 *"EdenTech has secured exclusive research access to an **archaeological zone near the remnants of King Herod’s temple wall.** After extensive negotiations with Israeli authorities, we’ve been granted **the first corporate-backed excavation rights** in this sector."*
 
-*Tessa **raises a brow, exchanging a look with Johnathan.** Corporate-backed? That’s rare.*  
+*Tessa **raises a brow, exchanging a look with Jonathan.** Corporate-backed? That’s rare.*  
 
 *MALCOLM smirks slightly, whispering under his breath—*
 
@@ -485,9 +670,9 @@
 
 ---
 
-*Johnathan stares at the last item, something about it **nagging at his subconscious.** The vague description bothers him.*  
+*Jonathan stares at the last item, something about it **nagging at his subconscious.** The vague description bothers him.*  
 
-**JOHNATHAN** *(quietly, to himself)*  
+**Jonathan** *(quietly, to himself)*  
 *"Ornamental breastplate?"*
 
 *MALCOLM, skimming the list, frowns slightly.*  
@@ -498,7 +683,7 @@
 **DR. STRAUSS** *(ignoring the comment, moving on)*  
 *"Each item will undergo a **multi-stage authentication process** to determine historical significance and proper handling. Until further notice, these artifacts will remain **off-record to external entities.**"*
 
-*Johnathan glances at Shaw, who **hasn’t spoken much.** But his gaze is sharp, watchful. Like he’s **measuring everyone’s reactions.***  
+*Jonathan glances at Shaw, who **hasn’t spoken much.** But his gaze is sharp, watchful. Like he’s **measuring everyone’s reactions.***  
 
 ---
 
@@ -510,9 +695,9 @@
 *MARCUS, a **seasoned veteran in security management**, speaks with precision.*  
 
 **MARCUS LANCASTER**  
-*"Johnathan. Malcolm. Tessa. Your team will be leading the **internal security integration** for this project. That means—**surveillance, access logs, breach detection.** No one outside this room is to have clearance."*
+*"Jonathan. Malcolm. Tessa. Your team will be leading the **internal security integration** for this project. That means—**surveillance, access logs, breach detection.** No one outside this room is to have clearance."*
 
-*Johnathan and Malcolm exchange a look. **This just got serious.***  
+*Jonathan and Malcolm exchange a look. **This just got serious.***  
 
 **MARCUS LANCASTER**  
 *"We’ll be implementing **classified protocols** for digital containment. That includes **restricted server access, biometric entry for physical storage zones, and live threat analysis.**"*
@@ -523,7 +708,7 @@
 **GREGORY SHAW** *(calmly)*  
 *"That would be an accurate comparison."*
 
-*Another beat of **silence.** Something about Shaw’s **tone** makes the entire room feel colder. Johnathan **studies him carefully.***  
+*Another beat of **silence.** Something about Shaw’s **tone** makes the entire room feel colder. Jonathan **studies him carefully.***  
 
 *MALCOLM, ever the skeptic, exhales sharply.*  
 
@@ -537,7 +722,7 @@
 
 *MALCOLM holds his stare for a moment before **leaning back in his chair**, nodding slowly.*  
 
-*Tessa **glances at Johnathan**, seeing the way he’s still looking at the **artifact list on the screen.** He seems... **drawn to it.***  
+*Tessa **glances at Jonathan**, seeing the way he’s still looking at the **artifact list on the screen.** He seems... **drawn to it.***  
 
 ---
 
@@ -555,19 +740,19 @@
 
 ## INT. EDENTECH – HALLWAY – MOMENTS LATER  
 
-*Tessa, Malcolm, and Johnathan **walk back toward their division**, the weight of the meeting **lingering.***
+*Tessa, Malcolm, and Jonathan **walk back toward their division**, the weight of the meeting **lingering.***
 
 *MALCOLM scoffs, running a hand over his jaw.*  
 
 **MALCOLM**  
 *"You’re telling me we’re locking down **ancient artifacts** like they’re **nuclear launch codes**? Something’s off."*
 
-**TESSA** *(glancing at Johnathan)*  
+**TESSA** *(glancing at Jonathan)*  
 *"You’ve been quiet."*
 
-*Johnathan stops mid-step, still processing. Something about **that ornamental breastplate.** His gut tells him **this isn’t just a relic.***
+*Jonathan stops mid-step, still processing. Something about **that ornamental breastplate.** His gut tells him **this isn’t just a relic.***
 
-**JOHNATHAN** *(finally speaking, voice low)*  
+**Jonathan** *(finally speaking, voice low)*  
 *"I think this is bigger than we realize."*
 
 *MALCOLM gives him a look, smirking slightly.*  
@@ -575,7 +760,7 @@
 **MALCOLM**  
 *"Yeah? You gonna start believing in **ancient curses and lost treasures** now?"*
 
-*Johnathan doesn’t answer. He just **keeps walking.** The image of the **breastplate** still lingers in his mind… **as if he’s seen it before.***  
+*Jonathan doesn’t answer. He just **keeps walking.** The image of the **breastplate** still lingers in his mind… **as if he’s seen it before.***  
 
 # FADE TO BLACK.
 
@@ -584,13 +769,13 @@
 
 
 
-# FADE IN: Scene 5
+# FADE IN: Scene 6
 
 ## INT. EDENTECH – CYBERSECURITY DIVISION – AFTERNOON
 
 *A low hum of **server racks** fills the air. Rows of **high-tech workstations** glow under dimmed blue lights, each screen flashing with **coding interfaces, network monitoring tools, and security protocols in progress.** Large **interactive displays** map out access routes and encryption layers for the upcoming **artifact transfer.***
 
-*Johnathan, Tessa, and Malcolm stand near the **central operations hub**, reviewing the **latest system configurations** while their team of **engineers and analysts** works around them.*
+*Jonathan, Tessa, and Malcolm stand near the **central operations hub**, reviewing the **latest system configurations** while their team of **engineers and analysts** works around them.*
 
 *Tessa taps a few keys on a **touchscreen panel, scanning the system logs.***  
 
@@ -602,9 +787,9 @@
 **MALCOLM**  
 *"Fine. But what about external threats? If someone tries **breaching from an outside network**, we need an **instant kill switch** before data gets compromised."*
 
-*Johnathan, typing rapidly on his console, speaks without looking up.*  
+*Jonathan, typing rapidly on his console, speaks without looking up.*  
 
-**JOHNATHAN**  
+**Jonathan**  
 *"I’m implementing a **multi-tiered fail-safe**. If an unauthorized entity tries to force their way in, the **server partitions itself**, isolating the breach before wiping volatile data."*
 
 *Tessa whistles, clearly impressed.*  
@@ -612,10 +797,10 @@
 **TESSA**  
 *"Damn. You trying to build a digital Fort Knox?"*
 
-**JOHNATHAN** *(smirking, still typing)*  
+**Jonathan** *(smirking, still typing)*  
 *"If I do my job right, even **we** won’t be able to break in without clearance."*
 
-*MALCOLM, skeptical, leans over to check Johnathan’s screen.*  
+*MALCOLM, skeptical, leans over to check Jonathan’s screen.*  
 
 **MALCOLM**  
 *"Yeah? What about **internal threats**?"*
@@ -630,9 +815,9 @@
 **MALCOLM**  
 *"Exactly. And we both know **this company’s got secrets.** Hell, we’re getting locked out of half the damn logs."*
 
-*Johnathan doesn’t respond immediately. He knows Malcolm is right. This isn’t **just a security job**—there’s a level of **secrecy** even they aren’t being told. But instead of voicing his concern, he refocuses on his screen.*  
+*Jonathan doesn’t respond immediately. He knows Malcolm is right. This isn’t **just a security job**—there’s a level of **secrecy** even they aren’t being told. But instead of voicing his concern, he refocuses on his screen.*  
 
-**JOHNATHAN**  
+**Jonathan**  
 *"Then we build a system that makes internal leaks **traceable**. If someone **inside** tries to bypass security, we **track them in real time.**"*
 
 *Tessa raises a brow, intrigued.*  
@@ -645,9 +830,9 @@
 **MALCOLM**  
 *"My man’s out here setting traps before we even catch a rat."*
 
-*Johnathan smirks but keeps his focus on the monitor.*  
+*Jonathan smirks but keeps his focus on the monitor.*  
 
-**JOHNATHAN**  
+**Jonathan**  
 *"Better safe than sorry."*
 
 ---
@@ -681,9 +866,9 @@
 **MALCOLM** *(grabbing his bag)*  
 *"Alright, I’m out. I got a gym session, then I’m hitting the bar. You in?"*
 
-*Johnathan shakes his head, shutting down his station.*  
+*Jonathan shakes his head, shutting down his station.*  
 
-**JOHNATHAN**  
+**Jonathan**  
 *"Nah, I’m heading home."*
 
 *Tessa shrugs.*  
@@ -691,33 +876,33 @@
 **TESSA**  
 *"Suit yourself, bossman. Try not to dream about **firewalls and intrusion logs** tonight."*
 
-*Johnathan smirks, slinging his bag over his shoulder.*  
+*Jonathan smirks, slinging his bag over his shoulder.*  
 
-**JOHNATHAN**  
+**Jonathan**  
 *"No promises."*
 
 ---
 
-## INT. JOHNATHAN & REBECCA'S APARTMENT – NIGHT  
+## INT. Jonathan & REBECCA'S APARTMENT – NIGHT  
 
-*Johnathan unlocks the door, stepping inside to the **soft glow of kitchen lights.** The smell of **roasted vegetables and seared meat** lingers in the air. Rebecca, dressed in **casual homewear**, moves around the kitchen, plating their dinner.*
+*Jonathan unlocks the door, stepping inside to the **soft glow of kitchen lights.** The smell of **roasted vegetables and seared meat** lingers in the air. Rebecca, dressed in **casual homewear**, moves around the kitchen, plating their dinner.*
 
 *She looks up and smiles as he enters.*  
 
 **REBECCA**  
 *"Perfect timing. I was just about to eat without you."*
 
-*Johnathan smirks, dropping his bag by the couch.*  
+*Jonathan smirks, dropping his bag by the couch.*  
 
-**JOHNATHAN**  
+**Jonathan**  
 *"Long day?"*
 
 **REBECCA** *(nodding)*  
 *"You have no idea. You?"*
 
-*Johnathan exhales, running a hand through his hair.*  
+*Jonathan exhales, running a hand through his hair.*  
 
-**JOHNATHAN**  
+**Jonathan**  
 *"Same. System setups, security tests, the usual corporate paranoia."*
 
 *Rebecca hands him a plate, studying him for a second.*  
@@ -725,9 +910,9 @@
 **REBECCA**  
 *"You look like you’re still thinking about work."*
 
-*Johnathan hesitates, then shakes his head with a small chuckle.*  
+*Jonathan hesitates, then shakes his head with a small chuckle.*  
 
-**JOHNATHAN**  
+**Jonathan**  
 *"Yeah, well… it’s **a lot** right now."*
 
 *Rebecca tilts her head slightly.*  
@@ -735,9 +920,9 @@
 **REBECCA**  
 *"Is it about the promotion?"*
 
-*Johnathan hesitates before nodding.*  
+*Jonathan hesitates before nodding.*  
 
-**JOHNATHAN**  
+**Jonathan**  
 *"Partially. And also this **new project we’re working on.** It’s… different."*
 
 *Rebecca slides into a seat across from him, picking up her fork.*  
@@ -745,9 +930,9 @@
 **REBECCA**  
 *"Different how?"*
 
-*Johnathan **pauses**, debating whether to share the full truth. The **artifact list, the security protocols, the secrecy.** Finally, he just sighs, shaking his head.*  
+*Jonathan **pauses**, debating whether to share the full truth. The **artifact list, the security protocols, the secrecy.** Finally, he just sighs, shaking his head.*  
 
-**JOHNATHAN**  
+**Jonathan**  
 *"Just different."*
 
 *Rebecca watches him for a beat before deciding not to press further. Instead, she **reaches over, resting a hand on his.***  
@@ -755,9 +940,9 @@
 **REBECCA**  
 *"Well, whatever it is, just remember—you don’t have to carry everything on your own."*
 
-*Johnathan looks at her, her **blue eyes steady, reassuring.** The weight on his shoulders **feels a little lighter.***  
+*Jonathan looks at her, her **blue eyes steady, reassuring.** The weight on his shoulders **feels a little lighter.***  
 
-**JOHNATHAN** *(softly)*  
+**Jonathan** *(softly)*  
 *"I know."*
 
 *A comfortable silence settles as they eat. The **city hums softly beyond the windows.** The tension from work **lingers in the back of his mind**… but for now, he lets himself **just be here.***  

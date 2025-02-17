@@ -84,6 +84,3 @@ Lucian Graves is a **ruthless strategist** who **controls the world's historical
 **Will his empire stand the test of time, or will the truth buried beneath the lies finally rise?**  
 
 ---
-
-### Want to expand on the **10 Heads**?  
-Lucian is only **one piece of the puzzle**. Do you want to **develop the other 9 Heads**, their roles, and their influence?  

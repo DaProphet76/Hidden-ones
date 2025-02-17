@@ -23,8 +23,8 @@
 ---
 
 
-# **FADE IN: 
-#Chapter 1 - Scene 1**#
+# **FADE IN: **
+#C**hapter 1 - Scene 1**#
 
 ## **EXT. JERUSALEM – HEROD’S TEMPLE DIG SITE – NIGHT**
 

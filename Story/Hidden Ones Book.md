@@ -274,6 +274,7 @@
 
 # FADE TO BLACK.
 
+---
 
 # FADE IN: Chapter 1 - Scene 3
 

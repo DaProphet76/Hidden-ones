@@ -21,9 +21,10 @@ This document contains the complete character profiles for the novel. Future cha
 
 ---
 
-## **Lucian Graves – One of the 10 Heads**  
+## **Lucian Graves**  
 
 ### **Basic Information**  
+- **Role: 1 of the 10 Heads**
 - **Full Name:** Gregory Shaw (later to be revealed as Lucian Graves)  
 - **Meaning:** *Lucian* = “Light-bearer” (false enlightenment), *Graves* = buried secrets, hidden knowledge  
 - **Age:** 30  
@@ -111,9 +112,10 @@ Lucian Graves is a **ruthless strategist** who **controls the world's historical
 
 ---
 
-## **Johnathan Malachi – The Protagonist**  
+## **Johnathan Malachi**  
 
 ## 1. Basic Information
+- **Role: The Protagonist**
 - **Full Name:** Jonathan Reeves (later to be changed to John Malachi)
 - **Additional Name:** Jonathan, John, Johnny, Malachi
 - **Age:** Late 20s  

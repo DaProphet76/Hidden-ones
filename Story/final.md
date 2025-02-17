@@ -3,7 +3,7 @@
 ## **Table of Contents**
 1. **Chapter 1**
    - [Scene 1: EXT. Jerusalem – Herod’s Temple Dig Site – Night](#chapter-1-scene-1)
-   - [Scene 2: INT. Unknown Temple – Dream Sequence](chapter-1-scene-2)
+   - [Scene 2: INT. Unknown Temple – Dream Sequence](#chapter-1-scene-2)
    - Scene 3: INT. Bedroom – Night
    - Scene 4: INT. EdenTech Headquarters – Main Lobby – Morning
    - Scene 5: INT. EdenTech Headquarters – Executive Conference Room – Morning

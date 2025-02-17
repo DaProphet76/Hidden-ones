@@ -482,7 +482,7 @@
 ---
 
 # **FADE IN**
-# **Chapter 1 - Scene 4**
+# **Chapter 1: Scene 4**
 
 ## INT. EDENTECH HEADQUARTERS – MAIN LOBBY – MORNING
 
@@ -629,7 +629,7 @@
 
 ---
 
-# **Chapter 1 - Scene 5**
+# **Chapter 1: Scene 5**
 
 # **FADE IN**
 ## INT. EDENTECH HEADQUARTERS – EXECUTIVE CONFERENCE ROOM – MORNING

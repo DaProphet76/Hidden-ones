@@ -1,4 +1,4 @@
-# FADE IN: Scene 1
+# FADE IN: Chapter 1 - Scene 1
 
 ## INT. DARK CHAMBER – DREAM SEQUENCE
 
@@ -123,7 +123,7 @@
 
 ---
 
-# FADE IN: Scene 2
+# FADE IN: Chapter 1 - Scene 2
 
 ## INT. BEDROOM – NIGHT
 
@@ -275,7 +275,7 @@
 # FADE TO BLACK.
 
 
-# FADE IN: Scene 3
+# FADE IN: Chapter 1 - Scene 3
 
 ## INT. EDENTECH HEADQUARTERS – MAIN LOBBY – MORNING
 
@@ -423,7 +423,7 @@
 
 
 
-# FADE IN: Scene 4
+# FADE IN: Chapter 1 - Scene 4
 
 ## INT. EDENTECH HEADQUARTERS – EXECUTIVE CONFERENCE ROOM – MORNING
 
@@ -584,7 +584,7 @@
 
 
 
-# FADE IN: Scene 5
+# FADE IN: Chapter 1 - Scene 5
 
 ## INT. EDENTECH – CYBERSECURITY DIVISION – AFTERNOON
 

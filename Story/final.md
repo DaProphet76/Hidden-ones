@@ -7,18 +7,18 @@
    - [Scene 3: INT. Bedroom – Night](#chapter-1-scene-3)
    - [Scene 4: INT. EdenTech Headquarters – Main Lobby – Morning](#chapter-1-scene-4)
    - [Scene 5: INT. EdenTech Headquarters – Executive Conference Room – Morning](#chapter-1-scene-5)
-   - [cene 6: INT. EdenTech – Cybersecurity Division – Afternoon](#chapter-1-scene-6)
+   - [Scene 6: INT. EdenTech – Cybersecurity Division – Afternoon](#chapter-1-scene-6)
 2. **Chapter 2**
-   - Scene 1: EXT. Jerusalem – Herod’s Temple Dig Site – Night
-   - Scene 2: INT. Temporary Field HQ – Night
-   - Scene 3: INT. Underground Chamber – Night
-   - Scene 4: EXT. Dig Site – Moments Later
+   - [Scene 1: EXT. Jerusalem – Herod’s Temple Dig Site – Night]
+   - [Scene 2: INT. Temporary Field HQ – Night]
+   - [Scene 3: INT. Underground Chamber – Night]
+   - [Scene 4: EXT. Dig Site – Moments Later]
 3. **Chapter 3** *(Placeholder for Future Entries)*
-   - Scene 1: **TBD**
-   - Scene 2: **TBD**
+   - [Scene 1: **TBD**]
+   - [Scene 2: **TBD**]
 4. **Chapter 4** *(Placeholder for Future Entries)*
-   - Scene 1: **TBD**
-   - Scene 2: **TBD**
+   - [Scene 1: **TBD**]
+   - [Scene 2: **TBD**]
 
 ---
 

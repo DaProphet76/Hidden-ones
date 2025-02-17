@@ -3,7 +3,7 @@
 ## **Table of Contents**
 1. **Chapter 1**
    - [Scene 1: EXT. Jerusalem – Herod’s Temple Dig Site – Night](#chapter-1-scene-1)
-   - Scene 2: INT. Unknown Temple – Dream Sequence
+   - [Scene 2: INT. Unknown Temple – Dream Sequence](chapter-1-scene-2)
    - Scene 3: INT. Bedroom – Night
    - Scene 4: INT. EdenTech Headquarters – Main Lobby – Morning
    - Scene 5: INT. EdenTech Headquarters – Executive Conference Room – Morning
@@ -164,13 +164,179 @@
 
 ---
 
-# **FADE IN: Chapter 1 - Scene 2**
-
+# **FADE IN:**
+# **Chapter 1: Scene 2**
 ## **INT. UNKNOWN TEMPLE – DREAM SEQUENCE**
 
 *A thick **shroud of darkness**. The faint flicker of torches barely pushes back the gloom.*...
 
 ---
+
+# **FADE IN**
+# **Chapter 1: Scene 2** 
+
+## **INT. UNKNOWN TEMPLE – DREAM SEQUENCE**
+
+*A thick **shroud of darkness**. The faint flicker of torches barely pushes back the gloom.*
+
+*A vast chamber—**ancient, forgotten**. The stone walls are lined with **faded inscriptions**, their meaning lost to time. The air is heavy with **something unspoken**, something pressing against the chest like a buried memory clawing its way to the surface.*
+
+*Jonathan **watches from the shadows**, unseen but present. He doesn’t know where he is, yet **he feels like he’s been here before.***  
+
+*At the center of the chamber, a group of **cloaked figures** stand in a **loose circle** around a raised altar. Their faces are hidden beneath deep hoods, their voices murmuring in a **language Jonathan doesn’t recognize… but somehow understands.***  
+
+*A relic rests atop the altar—a **breastplate**, its surface **dull with age**, but faintly etched with **symbols that pulse in the dim firelight.***  
+
+*One of the figures—**a leader**, more ornate than the rest—raises a hand. The murmuring ceases.*  
+
+*A sharp **hiss of steel** echoes as **a ceremonial dagger is drawn.***  
+
+*A shrouded figure kneels before the altar. Their head is bowed, their breathing ragged. The leader **lifts the blade.***  
+
+*Jonathan’s heart pounds. He wants to move, to speak—but his body refuses. He is **trapped**, locked inside this moment.*  
+
+*The dagger **slashes downward.***  
+
+*Blood spills onto the breastplate, seeping into its engravings.*  
+
+*A sudden **roar of sound—**an earthquake? A command? The chamber trembles.*  
+
+*The hooded leader slowly turns their head…*  
+
+*And **looks directly at Jonathan.***  
+
+*A voice—**not from the figure, but inside Jonathan’s mind**—whispers in a tone that is both familiar and terrifying.*  
+
+**UNKNOWN VOICE (O.S.)**  
+*"You were there."*  
+
+*Jonathan’s breath catches. The room tilts, distorting. The shadows **rush toward him**, swallowing everything—*
+
+---
+
+# **SMASH CUT TO:**
+
+## **INT. DARK CHAMBER – DREAM SEQUENCE CONTINUES**
+
+*Jonathan **jerks awake**—but he’s **still in the dream.***  
+
+*The flickering torches remain, but now he is **no longer an observer.** He is **here.***  
+
+*Iron chains bite into his wrists. His breathing is **sharp, uneven.** His heart pounds in his chest, but he can’t remember **why.***  
+
+*He is **not alone.** Dozens of men stand in line beside him, **bound in shackles.** Their eyes are hollow, their faces streaked with sweat and dirt. Some whisper **prayers**; others are **silent, resigned to fate.***  
+
+*A deep, cold voice **booms across the chamber.***  
+
+**EXECUTIONER (O.S.)**  
+*"Bring the next one."*  
+
+*A **heavy door creaks open.** A guard yanks a prisoner from the line, dragging him forward. The man **struggles, pleading.** But it doesn’t matter.*  
+
+*Jonathan watches, frozen, as the prisoner is forced down onto a massive **stone block**. His screams fill the air—*  
+
+**SHHHHHRK!**  
+
+*The executioner’s blade falls. Blood splatters onto the stone. The body **twitches once**—then goes still.*  
+
+*Jonathan **gasps**, his body jerking instinctively. He **feels the warmth of the blood**, though it hasn’t touched him. It’s real. It’s all **too real.***  
+
+*And then—*  
+
+*The guard’s eyes **turn to him.***  
+
+**GUARD**  
+*"Next."*  
+
+*The chains tighten. Jonathan is **yanked forward.** He fights, but it’s **futile.** The air is thick, suffocating. He can hear **the murmurs of the other prisoners**—some whisper his name. Others **bow their heads.***  
+
+*A voice—**the same voice as before**—echoes in his mind, deep and unshakable.*  
+
+**UNKNOWN VOICE (O.S.)**  
+*"You know how this ends."*  
+
+*Jonathan **grits his teeth**, thrashing against the guards, but their grip is **unbreakable.***  
+
+*The stone block awaits. The executioner’s blade glistens, **still wet.***  
+
+**EXECUTIONER**  
+*"Kneel."*  
+
+*Jonathan is **forced down**. His cheek **presses against the cold stone.** The executioner lifts the axe, **high above his head.***  
+
+*Jonathan’s breath quickens. His vision **blurs.** This isn’t just a dream.*  
+
+**This has happened before.**  
+
+*A thought cuts through his fear, clear as thunder—*  
+
+*"This is how John… died."*  
+
+**SHHHHHRK!**  
+
+---
+
+# **SMASH CUT TO:**
+
+## **INT. BEDROOM – NIGHT**  
+
+*Jonathan **jerks upright in bed—**GASPING, DRENCHED IN SWEAT. His breath comes in **ragged, panicked bursts.** The dim glow of a bedside lamp flickers on.*  
+
+*Beside him, **Rebecca stirs, her hand reaching for him.***  
+
+**REBECCA**  
+*"Babe? Jonathan—hey, hey, it’s okay!"*  
+
+*She **cups his face**, worry deep in her wide, **blue eyes.** Jonathan doesn’t answer—he’s **staring at his hands.** They **tremble.** He swears he can still feel the **chains.** The coldness of the stone. The final moment before the blade…*  
+
+*He shudders. Swallows hard. Finally **meets her gaze.***  
+
+**REBECCA**  
+*"Was it the dream again?"*  
+
+*Jonathan **runs a hand through his damp hair.** His **chest rises and falls, his heartbeat still erratic.** He finally nods, voice **hoarse.***  
+
+**Jonathan**  
+*"Yeah. Same one."*  
+
+**REBECCA**  
+*"Baby, that’s the third time this week."*  
+
+*She moves closer, resting a **gentle hand on his arm.** Her concern is real—but Jonathan is barely listening. His **mind is still trapped** in that chamber, that moment.*  
+
+*He forces a breath, leans forward, elbows on his knees.*  
+
+**Jonathan**  
+*"I’ve been having these dreams since I was a kid."*  
+
+*He looks at her, **eyes shadowed.** There’s something deeper in his voice now—**a fear he won’t admit.** A truth he doesn’t want to say aloud.*  
+
+**Jonathan**  
+*"But this one… it’s getting worse."*  
+
+*She hesitates. Then—softly, carefully—*  
+
+**REBECCA**  
+*"What if it means something?"*  
+
+*Jonathan **stiffens.** His jaw tightens. He **shakes his head.***  
+
+**Jonathan**  
+*"It doesn’t."*  
+
+*But even as he says it—**he knows he’s lying.***  
+
+---
+
+# **FADE TO BLACK.**
+---
+
+# **Chapter 1: Scene 4**
+
+# **Chapter 1: Scene 5**
+
+# **Chapter 1: Scene 6**
+
 
 # **FADE IN: Chapter 2 - Scene 1**
 

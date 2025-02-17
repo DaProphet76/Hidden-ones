@@ -1,7 +1,7 @@
 # Jonathan Malachi - Character Overview
 
 ## 1. Basic Information
-- **Full Name:** Jonathan Malachi  
+- **Full Name:** Jonathan Reeves (later to be changed to John Malachi)
 - **Age:** Late 20s  
 - **Physical Description:** 5'10", medium build. Not hood, but has slight cultural influences from childhood friends. Well-kept appearance, favors techwear (functional, modern clothing).  
 - **Hometown/Current Residence:** Brooklyn, New York  

@@ -1,7 +1,7 @@
 # Lucian Graves – One of the 10 Heads  
 
 ## Basic Information  
-- **Full Name:** Lucian Graves  
+- **Full Name:** Gregory Shaw ( later to be revealed as Lucian Graves)
 - **Meaning:** *Lucian* = “Light-bearer” (false enlightenment), *Graves* = buried secrets, hidden knowledge  
 - **Age:** 30  
 - **Ethnicity:** Edomite (Caucasian, European descent)  

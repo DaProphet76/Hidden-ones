@@ -8,6 +8,7 @@
    - [Scene 4: INT. EdenTech Headquarters – Main Lobby – Morning](#chapter-1-scene-4)
    - [Scene 5: INT. EdenTech Headquarters – Executive Conference Room – Morning](#chapter-1-scene-5)
    - [Scene 6: INT. EdenTech – Cybersecurity Division – Afternoon](#chapter-1-scene-6)
+   - [Scene 7: INT. JONATHAN & REBECCA’S APARTMENT – NIGHT](#chapter-1-scene-7)
 2. **Chapter 2**
    - [Scene 1: EXT. Jerusalem – Herod’s Temple Dig Site – Night]
    - [Scene 2: INT. Temporary Field HQ – Night]
@@ -918,9 +919,213 @@
 ---
 
 
+# **Chapter 1: Scene 7**
+# **FADE IN**
+
+## **INT. JONATHAN & REBECCA’S APARTMENT – NIGHT**
+
+*A **soft glow from the kitchen light** spills into the darkened apartment. The faint hum of the **city outside** filters through the windows—car horns, distant sirens, the rhythmic pulse of life beyond these walls.*
+
+*Jonathan unlocks the door, stepping inside. The scent of **roasted vegetables and seared meat** lingers in the air. Rebecca, dressed in **casual homewear**, stands by the stove, plating the last portion of dinner.*
+
+*She glances up as he enters, offering a small smile.*
+
+**REBECCA**  
+*"Didn’t think I’d see you before midnight."*
+
+*Jonathan **smirks faintly**, dropping his bag by the couch. His movements are **slower than usual, weighted**, as if something unseen presses on his shoulders. He rubs a hand over his face before stepping toward the counter.*
+
+**JONATHAN**  
+*"Long day?"*
+
+**REBECCA** *(nodding, stretching her neck)*  
+*"Draining. Too many emails, too many meetings. Same cycle, different day."*
+
+*Jonathan exhales, rolling his shoulders as he takes a seat at the counter. Rebecca slides a plate toward him, watching him **closely**. His expression is distant, his focus absent. He chews absently, **his mind clearly elsewhere.***
+
+**REBECCA** *(softly, studying him)*  
+*"You didn’t hear a word I just said, did you?"*
+
+*Jonathan looks up, blinking as if pulling himself out of a fog. He forces a half-smile.*
+
+**JONATHAN**  
+*"No, I—sorry. Just… a lot on my mind."*
+
+**REBECCA** *(leaning forward slightly, prodding)*  
+*"Work?"*
+
+*Jonathan hesitates. He wants to say yes. That would be the easy answer. But **something in him resists lying to her.***
+
+**JONATHAN** *(quietly)*  
+*"It’s this new project. Feels… off."*
+
+*Rebecca tilts her head slightly.*
+
+**REBECCA**  
+*"Off how?"*
+
+*Jonathan hesitates again, gripping his fork tighter. The **artifact list, the secrecy, the unease**—it all sits in his chest like a lead weight. He exhales, shaking his head.*
+
+**JONATHAN**  
+*"Just different."*
+
+*Rebecca watches him for a beat, then sets her fork down with a soft clink. She doesn’t press further, but her voice lowers, more grounded.*
+
+**REBECCA**  
+*"I don’t know what’s happening in that head of yours, but you’re starting to feel like a ghost in this house, Jon."*
+
+*Jonathan’s jaw tightens. He **wants to say something—anything—but words fail him.** Instead, he nods, offering a half-hearted smile.*
+
+**JONATHAN** *(softly)*  
+*"I hear you."*
+
+*A comfortable silence settles as they eat. But in the back of Jonathan’s mind, **the feeling doesn’t fade.** It **deepens.***
+
+---
+
+## **INT. BEDROOM – NIGHT**
+
+*A heavy **silence**. The only sound is the faint rustle of fabric as **Rebecca shifts in her sleep**, the rhythmic rise and fall of her breath.*
+
+*Jonathan lies awake, staring at the ceiling, his body **tired but his mind restless**. His limbs feel heavy, his thoughts like static—an incessant, dull hum.*
+
+*Then—**the sensation shifts.**  
+
+Something **pulls.**  
+
+His breath slows. His eyelids grow heavy. The world around him **tilts, dissolving into darkness.**  
+
+---
+
+## **INT. DUNGEON – ANCIENT ISRAEL – DREAM SEQUENCE**
+
+*Jonathan **awakens suddenly—but he knows.**  
+
+He **knows this is a dream.**  
+
+But this time, **something is different.**  
+
+*A **low, suffocating dampness** clings to the air. The stone walls are **slick with moisture**, a mixture of mold and decay soaking into the cracks. The only light comes from **torches flickering unevenly**, casting grotesque shadows that **dance against the walls.***  
+
+*Jonathan’s wrists ache—**iron shackles bite into his skin.** The sensation is **too real.** His breath comes **sharp, uneven.**  
+
+His body **remembers before his mind does.**  
+
+And then it hits him.  
+
+**Not just déjà vu.**  
+
+**Recognition.**  
+
+**He knows where he is. This is a dungeon.**  
+
+A familiar **boom of a voice** cuts through the air.  
+
+**GUARD (O.S.)**  
+*"Bring the next one."*
+
+*Jonathan’s **stomach tightens.** He turns his head—he isn’t alone.*  
+
+*Rows of men **sit against the dungeon walls**, their faces **hollow, beaten, waiting.** Some **whisper prayers**, others stare blankly into the darkness. The air **smells of sweat, blood, and hopelessness.***  
+
+*The **iron door** creaks open. A prisoner is **yanked to his feet**, his shackles dragging against the stone.*  
+
+*Jonathan knows what comes next. But this time—**this time, he’s conscious.**  
+
+He wants to move.  
+
+He can’t.*  
+
+*A raised **execution block** looms in the center of the dungeon—**a bloodstained stone platform**, worn from use. The prisoner is forced to **kneel**, his breathing ragged, his body trembling.*  
+
+*A heavy-set **executioner**, clad in dark armor, lifts a **gleaming sword.** No hesitation. No mercy.*  
+
+**SHHHHHRK!**  
+
+*The **blade comes down**, and **the body crumples forward.** The head **rolls onto the stone**, its lifeless eyes still open.*  
+
+*Jonathan gasps. He wants to wake up, but his body **stays trapped.** He feels **gravity anchoring him in place.**  
+
+He **isn’t watching.**  
+
+He **is living.**  
+
+The guard turns—**his gaze lands on Jonathan.***  
+
+**GUARD**  
+*"Next."*
+
+*Jonathan is **dragged forward.** His feet **scrape against the stone floor**, his body **powerless** against the pull of history.*  
+
+He **has been here before.**  
+
+And he **remembers how it ends.**  
+
+*A shadow looms over him. The executioner grips his **shoulder**, forcing him **down onto the block.**  
+
+**EXECUTIONER** *(low, rumbling)*  
+*"Kneel."*
+
+*Jonathan’s cheek **presses against the cold stone.** His eyes remain **locked on something just beyond the block.**  
+
+*A **golden breastplate.** Resting on a pedestal, its **twelve stones dimly illuminated** in the flickering light.*  
+
+Jonathan’s heart pounds harder.  
+
+He tries to **move toward it, reach for it**, but **his body refuses.**  
+
+The executioner’s grip tightens.  
+
+The sword **rises.**  
+
+Jonathan squeezes his eyes shut, **bracing for agony.**  
+
+**Wake up, wake up WAKE UP!**  
+
+The blade **comes down.**  
+
+A flash of **white-hot pain.**  
+
+---
+
+## **INT. BEDROOM – NIGHT**
+
+*Jonathan **jerks upright, gasping.** His body **lurches forward**, drenched in sweat, his breath coming in **short, ragged bursts.** His hands fly to his **neck.** He’s alive. But the pain still lingers—**a phantom sensation.***  
+
+*Rebecca stirs beside him, frowning, her voice **thick with sleep.***  
+
+**REBECCA** *(groggy)*  
+*"Jon...? What happened?"*
+
+*Jonathan stares ahead, his fingers still **hovering over his throat.** The weight of the dream **settles in his bones.***  
+
+His voice is hoarse. Hollow.  
+
+**JONATHAN** *(whispering)*  
+*"I didn’t wake up this time."*
+
+*Rebecca blinks, **now fully awake.***  
+
+**REBECCA**  
+*"What?"*
+
+*Jonathan turns to her, his voice low, shaken.*  
+
+**JONATHAN**  
+*"I think I just died."*
+
+# **FADE TO BLACK.**
+
+---
 
 
-# **FADE IN: Chapter 2 - Scene 1**
+
+
+
+
+# **Chapter 2: Scene 1**
+
+# **FADE IN:**
 
 ## **EXT. JERUSALEM – HEROD’S TEMPLE DIG SITE – NIGHT**
 

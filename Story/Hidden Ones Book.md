@@ -10,7 +10,7 @@
    - [Scene 6: INT. EdenTech – Cybersecurity Division – Afternoon](#chapter-1-scene-6)
    - [Scene 7: INT. JONATHAN & REBECCA’S APARTMENT – NIGHT](#chapter-1-scene-7)
 2. **Chapter 2**
-   - [Scene 1: EXT. Jerusalem – Herod’s Temple Dig Site – Night]
+   - [Scene 1: INT. EDENTECH – CYBERSECURITY DIVISION – LATE NIGHT](#chapter-2-scene-1)
    - [Scene 2: INT. Temporary Field HQ – Night]
    - [Scene 3: INT. Underground Chamber – Night]
    - [Scene 4: EXT. Dig Site – Moments Later]
@@ -1125,11 +1125,72 @@ His voice is hoarse. Hollow.
 
 # **Chapter 2: Scene 1**
 
-# **FADE IN:**
+# **FADE IN**
 
-## **EXT. JERUSALEM – HEROD’S TEMPLE DIG SITE – NIGHT**
+## **INT. EDENTECH – CYBERSECURITY DIVISION – LATE NIGHT**
 
-*A **dusty wind** moves through the excavation site, the remnants of **Herod’s Temple** standing as a **monument of history and ruin.**...*
+*The office is nearly empty, the usual hum of voices and keystrokes reduced to the rhythmic beeping of system monitors. The overhead lights are dimmed, leaving only the glow of multiple screens illuminating the room. Jonathan and Tessa remain, locked in their respective tasks.*
+
+*Tessa leans forward, scanning through lines of security logs while Jonathan, sitting across from her, flips between network feeds and internal camera archives.*
+
+**TESSA** *(glancing at him)*  
+“You’re really burning the midnight oil, Reeves. Trying to make up for all that zoning out earlier?”  
+
+**JONATHAN** *(absentmindedly, still focused on the screen)*  
+“Something doesn’t sit right with me about this project…”  
+
+*Tessa sighs, stretching her arms above her head.*
+
+**TESSA**  
+“Tell me about it. EdenTech doesn’t lock down regular digs like this. Whatever they found… it’s big.”  
+
+*Jonathan’s fingers hover over his keyboard, a thought forming in his mind. His curiosity sharpens. His pulse quickens as he hesitates for just a moment—then he types a **series of override commands** into the system. Tessa watches, intrigued but wary.*
+
+**TESSA** *(smirking, but lowering her voice)*  
+“You’re hacking our own security feeds now?”  
+
+**JONATHAN** *(focused, determined)*  
+“I just want to see what the researchers were looking at. The system keeps those feeds archived but restricted… which means there’s something worth hiding.”  
+
+*Tessa leans in, watching as Jonathan bypasses the internal encryption barriers. A new window opens—a **live camera feed playback from the research lab.** The timestamp shows footage from **earlier that evening.**  
+
+*On screen, Dr. Strauss and his team are gathered around a **workstation**, carefully examining the **ancient breastplate**. The light reflects off its **twelve embedded stones**, though some appear **dim and faded**. The researchers exchange words, their voices muted on the silent feed.*
+
+**JONATHAN** *(whispering, transfixed)*  
+“There it is…”  
+
+*Tessa watches as his expression shifts—his focus narrows, his pupils slightly dilated. Something in him **changes.** He continues watching, his breathing slowing as his mind drifts into deep concentration.*
+
+*His eyes trace every detail of the breastplate—the way the metal catches the light, the engravings along its edges, the embedded stones that seem almost familiar. His gaze flickers between the researchers and the artifact, but his attention keeps pulling back to the breastplate.*
+
+*Time feels stretched. The room around him seems quieter, more distant. His fingers tremble slightly over the keyboard as he leans closer to the screen.*
+
+*Tessa glances at him, noting his stillness. Something about his posture is off—as if he’s no longer entirely present. She furrows her brow, voice lowering slightly.*
+
+**TESSA** *(concerned)*  
+“Jonathan?”  
+
+*He doesn’t respond immediately. His eyes remain fixed on the breastplate, his breath shallow. A cold sensation creeps into his chest, a feeling both foreign and strangely familiar. He blinks hard, trying to shake it off.*
+
+*Then, a flicker of something—*a memory? A thought?*—passes through his mind. But before he can grasp it, the moment slips away.*
+
+*Jonathan exhales sharply, snapping back to the present. He blinks a few times, shifting in his chair as if waking from a deep fog. He rubs a hand over his face, trying to mask the unease settling in his bones.*
+
+**TESSA** *(watching him closely)*  
+“What just happened?”  
+
+*Jonathan swallows, his throat dry. He hesitates before answering, still processing what he felt—or almost remembered.*
+
+**JONATHAN** *(quietly, almost to himself)*  
+“I don’t know… but I think I’ve seen it before.”  
+
+*A heavy silence lingers between them.*
+
+*Tessa, for once, has no joke to offer. She just watches him, an uneasy feeling creeping into her chest.*
+
+---
+
+## **FADE TO BLACK.**
 
 ---
 

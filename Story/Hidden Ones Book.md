@@ -24,6 +24,7 @@
 ---
 
 ## **Chapter 1: Scene 1**
+[🔝 Return to Top](#)
 
 # **FADE IN:**
 
@@ -142,6 +143,7 @@
 
 
 ## **Chapter 1: Scene 2**
+[🔝 Return to Top](#)
 
 # **FADE IN**
  
@@ -245,9 +247,11 @@
 
 
 
-# **FADE IN**
-## **Chapter 1: Scene 3**
 
+## **Chapter 1: Scene 3**
+[🔝 Return to Top](#)
+
+# **FADE IN**
 
 ## **INT. BEDROOM – NIGHT**
 
@@ -420,9 +424,11 @@
 
 
 ---
+# **Chapter 1: Scene 4**
+[🔝 Return to Top](#)
 
 # **FADE IN**
-# **Chapter 1: Scene 4**
+
 
 ## **EXT. EDENTECH HEADQUARTERS – ROOFTOP – EARLY MORNING**
 
@@ -572,8 +578,10 @@
 ---
 
 # **Chapter 1: Scene 5**
+[🔝 Return to Top](#)
 
 # **FADE IN**
+
 ## INT. EDENTECH HEADQUARTERS – EXECUTIVE CONFERENCE ROOM – MORNING
 
 *A **sleek, high-tech boardroom** with **a panoramic view of the city.** The room is dimly lit except for the glow of an **interactive holo-table** in the center. A **3D projection of an excavation site** flickers above it—**ancient ruins, stone walls, tunnels leading into darkness.***
@@ -731,6 +739,8 @@
 
 ---
 # **Chapter 1: Scene 6**
+[🔝 Return to Top](#)
+
 # **FADE IN**
 
 ## **INT. EDENTECH – CYBERSECURITY DIVISION – AFTERNOON**
@@ -920,6 +930,8 @@
 
 
 # **Chapter 1: Scene 7**
+[🔝 Return to Top](#)
+
 # **FADE IN**
 
 ## **INT. JONATHAN & REBECCA’S APARTMENT – NIGHT**
@@ -1124,6 +1136,7 @@ His voice is hoarse. Hollow.
 
 
 # **Chapter 2: Scene 1**
+[🔝 Return to Top](#)
 
 # **FADE IN:**
 
@@ -1244,6 +1257,7 @@ His voice is hoarse. Hollow.
 
 
 # **Chapter 2: Scene 2**
+[🔝 Return to Top](#)
 
 # **FADE IN:**
 
@@ -1350,6 +1364,7 @@ His eyes drift shut, finally, sleep arrives.
 
 
 # **Chapter 2: Scene 3**
+[🔝 Return to Top](#)
 
 # **FADE IN:**
 
@@ -1425,12 +1440,14 @@ His eyes drift shut, finally, sleep arrives.
 
 
 # **Chapter 2: Scene 4**
+[🔝 Return to Top](#)
 
 
 
 ---
 
 # **Chapter 2: Scene 5**
+[🔝 Return to Top](#)
 
 
 ---
@@ -1438,10 +1455,12 @@ His eyes drift shut, finally, sleep arrives.
 
 
 # **Chapter 2: Scene 6**
+[🔝 Return to Top](#)
 
 ---
 
 # **Chapter 2: Scene 7**
+[🔝 Return to Top](#)
 
 
 

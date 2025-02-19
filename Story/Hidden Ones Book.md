@@ -10,9 +10,9 @@
    - [Scene 6: INT. EdenTech – Cybersecurity Division – Afternoon](#chapter-1-scene-6)
    - [Scene 7: INT. JONATHAN & REBECCA’S APARTMENT – NIGHT](#chapter-1-scene-7)
 2. **Chapter 2**
-   - [Scene 1: INT. UNKNOWN LOCATION – DIMLY LIT ROOM – NIGHT](#chapter-2-scene-1)
-   - [Scene 2: INT. EDENTECH – CYBERSECURITY DIVISION – LATE NIGHT](#chapter-2-scene-1)
-   - [Scene 3: INT. Underground Chamber – Night]
+   - [Scene 1: INT. TELEVISION SCREEN – GLOBAL NEWS BROADCAST](#chapter-2-scene-1)
+   - [Scene 2: INT. EDENTECH – CYBERSECURITY DIVISION – LATE NIGHT](#chapter-2-scene-2)
+   - [Scene 3: INT. EDENTECH - PRIVATE RESEARCH LAB - MORNING](#chapter-2-scene-3)
    - [Scene 4: EXT. Dig Site – Moments Later]
 3. **Chapter 3** *(Placeholder for Future Entries)*
    - [Scene 1: **TBD**]
@@ -23,9 +23,9 @@
 
 ---
 
+## **Chapter 1: Scene 1**
 
 # **FADE IN:**
-## **Chapter 1: Scene 1**
 
 ## EXT. JERUSALEM – HEROD’S TEMPLE DIG SITE – NIGHT  
 
@@ -141,10 +141,10 @@
 ---
 
 
+## **Chapter 1: Scene 2**
 
 # **FADE IN**
-## **Chapter 1: Scene 2** 
-
+ 
 ## **INT. UNDERGROUND CHAMBER – DREAM SEQUENCE**  
 
 *A suffocating darkness. The air is **damp, stale**, thick with the scent of **stone, sweat, and something deeper—something metallic.**  
@@ -1339,12 +1339,110 @@ He exhales, shaking his head as he moves toward his bedroom. The pull is still t
 
 As he lays down, his mind refuses to settle. The **image of the breastplate** stays burned into his vision, its stones dull yet somehow… **watching him.**
 
-His eyes drift shut, then sleep arrives, easily.
+His eyes drift shut, finally, sleep arrives.
 
 ---
 
 ## **FADE TO BLACK.**
 ---
+
+
+
+
+# **Chapter 2: Scene 3**
+
+# **FADE IN:**
+
+## **INT. EDENTECH - PRIVATE RESEARCH LAB - MORNING**
+
+*A sterile, high-security laboratory, deep within EdenTech’s corporate headquarters. The walls are lined with reinforced containment units, each housing artifacts from various excavation sites. In the center of the room, encased in a high-tech glass vault, sits the **breastplate artifact**—its twelve stones dulled with time, its intricate craftsmanship whispering of an era long forgotten.*
+
+*Gregory Shaw stands before it, hands clasped behind his back, his expression unreadable. He is dressed in an **impeccable tailored suit**, exuding an aura of authority and precision. He watches the artifact in silence, his sharp blue eyes scanning its every detail. The room hums with the faint sound of air filtration systems, the only movement being the shifting light reflecting off the glass containment unit.*
+
+*A faint electronic chime signals the entrance of **Dr. Marcus Strauss**, the lead archaeologist overseeing the project. He steps in cautiously, adjusting his glasses, his demeanor that of a man who has dealt with power before but never fully grown comfortable with it.*
+
+---
+
+## **SHAW** *(without turning, his voice calm but weighted)*  
+*"Tell me, Marcus… after all your years of studying history, of unearthing the relics of forgotten civilizations… what do you make of this find?"*
+
+*Dr. Strauss hesitates. A strange question to open with. He clears his throat, choosing his words carefully.*
+
+---
+
+## **STRAUSS** *(measured)*  
+*"It’s an intriguing piece, certainly. Material composition suggests it dates back several millennia, and the craftsmanship is remarkable. But beyond that, it’s just another artifact."*  
+
+---
+
+*Shaw finally turns, studying Strauss with an intensity that makes the older man shift slightly under his gaze.*
+
+---
+
+## **SHAW** *(softly, almost to himself)*  
+*"Artifacts… remnants of forgotten hands and forgotten lives."*
+
+*He steps closer to the containment unit, placing his palm lightly against the glass. His voice drops, contemplative.*
+
+---
+
+## **SHAW** *(cont.)*  
+*"A relic like this... history will record it as another piece in a collection. But history, Marcus, often leaves out the most interesting details."*
+
+*Strauss exhales through his nose, shifting his weight slightly.*
+
+---
+
+## **STRAUSS** *(patient, but firm)*  
+*"Our job is to document, preserve, and analyze, not to assign meaning beyond what the evidence supports."*
+
+---
+
+*Shaw’s expression remains impassive, but the air in the room grows colder.*
+
+---
+
+## **SHAW** *(controlled, but pointed)*  
+*"Of course. Documentation is key. Ensure everything is catalogued properly."*
+
+*Strauss nods, sensing that Shaw’s interest extends beyond academic curiosity but choosing not to press the matter further.*
+
+---
+
+*Shaw takes one last lingering look at the artifact before stepping past Strauss, pausing at the doorway.*
+
+---
+
+## **SHAW** *(without looking back)*  
+*"Run your tests. Catalogue your findings. Let me know if you uncover anything… unexpected."*
+
+*With that, Shaw exits, leaving Strauss standing alone, staring at the artifact, his pulse inexplicably quickened.*
+
+# **FADE TO BLACK.**
+
+
+---
+
+
+# **Chapter 2: Scene 4**
+
+
+
+---
+
+# **Chapter 2: Scene 5**
+
+
+---
+
+
+
+# **Chapter 2: Scene 6**
+
+---
+
+# **Chapter 2: Scene 7**
+
 
 
 ---

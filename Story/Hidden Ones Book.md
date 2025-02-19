@@ -10,8 +10,8 @@
    - [Scene 6: INT. EdenTech – Cybersecurity Division – Afternoon](#chapter-1-scene-6)
    - [Scene 7: INT. JONATHAN & REBECCA’S APARTMENT – NIGHT](#chapter-1-scene-7)
 2. **Chapter 2**
-   - [Scene 1: INT. EDENTECH – CYBERSECURITY DIVISION – LATE NIGHT](#chapter-2-scene-1)
-   - [Scene 2: INT. Temporary Field HQ – Night]
+   - [Scene 1: INT. UNKNOWN LOCATION – DIMLY LIT ROOM – NIGHT](#chapter-2-scene-1)
+   - [Scene 2: INT. EDENTECH – CYBERSECURITY DIVISION – LATE NIGHT](#chapter-2-scene-1)
    - [Scene 3: INT. Underground Chamber – Night]
    - [Scene 4: EXT. Dig Site – Moments Later]
 3. **Chapter 3** *(Placeholder for Future Entries)*
@@ -1125,75 +1125,196 @@ His voice is hoarse. Hollow.
 
 # **Chapter 2: Scene 1**
 
-# **FADE IN**
+# **FADE IN:**
+
+## **INT. UNKNOWN LOCATION – DIMLY LIT ROOM – NIGHT**
+
+*A vast, dimly lit chamber. Shadows stretch across the walls, cast by a single flickering chandelier overhead. The architecture is ancient—gothic columns, vaulted ceilings, and aged stone floors that bear the weight of countless secrets. A long, mahogany table sits at the center, surrounded by figures cloaked in darkness. Their faces remain obscured, but their presence is palpable.*
+
+*Low murmurs settle as a voice, deep and authoritative, cuts through the room.*
+
+**FIRST FIGURE**  
+*(calm, measured)*  
+"The world moves as we have willed it. Their minds are shaped, their history rewritten. Yet, there are... murmurs."
+
+*A rustle among the figures, a shift in the atmosphere.*
+
+**SECOND FIGURE**  
+*(a low, rasping voice)*  
+"Murmurs lead to echoes, and echoes become a storm. We have spent centuries ensuring they do not awaken. Have our methods weakened?"
+
+**THIRD FIGURE**  
+*(sharply)*  
+"Not weakened—merely tested. There are always those who refuse their station. But even they must bow to what they do not understand."
+
+**FOURTH FIGURE**  
+*(mocking, amused)*  
+"Like the ones before them? Malcolm X, Martin Luther King Jr., Nat Turner? Each thought they could awaken the lost ones, and each was handled accordingly."
+
+**FIFTH FIGURE**  
+*(smugly)*  
+"Revolutions are expensive. Their leaders are shackled by debt or silenced with economic disparity. We ensure their chains are invisible, yet unbreakable."
+
+**SIXTH FIGURE**  
+*(gravelly, firm)*  
+"And if they do rise, we meet them with force. Covert operations, engineered conflicts, precision strikes. Their movements crumble before they begin."
+
+**SEVENTH FIGURE**  
+*(soft, sinister)*  
+"Their faith belongs to us. We tell them what to worship, who to trust, and what doctrines to follow. Any who challenge the narrative are branded as heretics."
+
+**EIGHTH FIGURE**  
+*(coldly, clinical)*  
+"And if knowledge seeps through, we suppress it through more direct measures—disease, pharmaceuticals, mental conditioning. They are dependent on our systems to live."
+
+**NINTH FIGURE**  
+*(calculated, monotone)*  
+"AI, surveillance, digital monitoring. We know what they seek before they find it. Their algorithms serve our design."
+
+**TENTH FIGURE**  
+*(smug, final)*  
+"It is not enough to silence a voice. A silenced voice becomes a martyr. No, they must be *led*—guided to believe that what they seek is folly. That their past is meaningless."
+
+**FIRST FIGURE**  
+*(reflective)*  
+"A people without history... is a people without identity. And a people without identity... are cattle, ripe for direction."
+
+*A low hum of agreement rumbles through the room. The plan has worked for centuries—why should now be any different?*
+
+**FIFTH FIGURE**  
+*(skeptical)*  
+"Then explain why the murmurs persist. Explain why, despite every measure, some still find the path back."
+
+**FOURTH FIGURE**  
+*(calm, yet firm)*  
+"Because the past calls to them. And something... or *someone*... has begun to stir the waters."
+
+*The air grows heavy. The weight of those words lingers. A silent understanding spreads among them—there is more at play than mere chance.*
+
+**TENTH FIGURE**  
+*(after a pause, resolute)*  
+"Then we must move swiftly. Influence their leaders, shape their narratives. If they begin to seek, ensure they find only the doors we build for them. Keep their scholars indebted, their movements fragmented, their truths buried beneath the sands of irrelevance."
+
+*A chorus of approval follows. The meeting is drawing to a close, but the unseen battle continues.*
+
+**FIRST FIGURE**  
+*(final, with certainty)*  
+"We have always been the architects of their understanding. And we shall remain so."
+
+*The chandelier flickers once, casting elongated shadows that momentarily distort against the walls. The figures rise, disappearing into the darkness one by one, their presence dissipating like mist.*
+
+# **FADE TO BLACK.**
+
+
+
+
+---
+
+# **Chapter 2: Scene 2**
+
+# **FADE IN:**
 
 ## **INT. EDENTECH – CYBERSECURITY DIVISION – LATE NIGHT**
 
-*The office is nearly empty, the usual hum of voices and keystrokes reduced to the rhythmic beeping of system monitors. The overhead lights are dimmed, leaving only the glow of multiple screens illuminating the room. Jonathan and Tessa remain, locked in their respective tasks.*
+The office is nearly empty, the usual hum of voices and keystrokes reduced to the rhythmic beeping of system monitors. The overhead lights are dimmed, leaving only the glow of multiple screens illuminating the room. Jonathan and Tessa remain, locked in their respective tasks.
 
-*Tessa leans forward, scanning through lines of security logs while Jonathan, sitting across from her, flips between network feeds and internal camera archives.*
+Tessa leans forward, scanning through lines of security logs while Jonathan, sitting across from her, flips between network feeds and internal camera archives.
 
-**TESSA** *(glancing at him)*  
+### **TESSA** *(glancing at him)*  
 “You’re really burning the midnight oil, Reeves. Trying to make up for all that zoning out earlier?”  
 
-**JONATHAN** *(absentmindedly, still focused on the screen)*  
+### **JONATHAN** *(absentmindedly, still focused on the screen)*  
 “Something doesn’t sit right with me about this project…”  
 
-*Tessa sighs, stretching her arms above her head.*
+Tessa sighs, stretching her arms above her head.
 
-**TESSA**  
+### **TESSA**  
 “Tell me about it. EdenTech doesn’t lock down regular digs like this. Whatever they found… it’s big.”  
 
-*Jonathan’s fingers hover over his keyboard, a thought forming in his mind. His curiosity sharpens. His pulse quickens as he hesitates for just a moment—then he types a **series of override commands** into the system. Tessa watches, intrigued but wary.*
+Jonathan’s fingers hover over his keyboard, a thought forming in his mind. His curiosity sharpens. His pulse quickens as he hesitates for just a moment—then he types a **series of override commands** into the system. Tessa watches, intrigued but wary.
 
-**TESSA** *(smirking, but lowering her voice)*  
+### **TESSA** *(smirking, but lowering her voice)*  
 “You’re hacking our own security feeds now?”  
 
-**JONATHAN** *(focused, determined)*  
+### **JONATHAN** *(focused, determined)*  
 “I just want to see what the researchers were looking at. The system keeps those feeds archived but restricted… which means there’s something worth hiding.”  
 
-*Tessa leans in, watching as Jonathan bypasses the internal encryption barriers. A new window opens—a **live camera feed playback from the research lab.** The timestamp shows footage from **earlier that evening.**  
+Tessa leans in, watching as Jonathan bypasses the internal encryption barriers. A new window opens—a **live camera feed playback from the research lab.** The timestamp shows footage from **earlier that evening.**
 
-*On screen, Dr. Strauss and his team are gathered around a **workstation**, carefully examining the **ancient breastplate**. The light reflects off its **twelve embedded stones**, though some appear **dim and faded**. The researchers exchange words, their voices muted on the silent feed.*
+On screen, Dr. Strauss and his team are gathered around a **workstation**, carefully examining the **ancient breastplate**. The light reflects off its **twelve embedded stones**, though some appear **dim and faded**. The researchers exchange words, their voices muted on the silent feed.
 
-**JONATHAN** *(whispering, transfixed)*  
+### **JONATHAN** *(whispering, transfixed)*  
 “There it is…”  
 
-*Tessa watches as his expression shifts—his focus narrows, his pupils slightly dilated. Something in him **changes.** He continues watching, his breathing slowing as his mind drifts into deep concentration.*
+Tessa watches him carefully. Jonathan's eyes remain fixed on the screen, but there’s something different about the way he stares. Almost like he’s searching for something beyond what’s visible.
 
-*His eyes trace every detail of the breastplate—the way the metal catches the light, the engravings along its edges, the embedded stones that seem almost familiar. His gaze flickers between the researchers and the artifact, but his attention keeps pulling back to the breastplate.*
+A few beats of silence pass. Tessa leans back, rubbing her face, exhaustion settling in.
 
-*Time feels stretched. The room around him seems quieter, more distant. His fingers tremble slightly over the keyboard as he leans closer to the screen.*
+### **TESSA** *(yawning, standing up)*  
+“I’m clocking out. You should too. Don’t stay here all night chasing ghosts.”  
 
-*Tessa glances at him, noting his stillness. Something about his posture is off—as if he’s no longer entirely present. She furrows her brow, voice lowering slightly.*
+Jonathan barely acknowledges her. His eyes remain locked onto the **breastplate** displayed on the monitor. The flickering light reflects in his pupils, unmoving.
 
-**TESSA** *(concerned)*  
-“Jonathan?”  
+Tessa hesitates, sensing something is off. For a moment, she considers pressing him, but she ultimately shakes her head.
 
-*He doesn’t respond immediately. His eyes remain fixed on the breastplate, his breath shallow. A cold sensation creeps into his chest, a feeling both foreign and strangely familiar. He blinks hard, trying to shake it off.*
+### **TESSA** *(softer, almost concerned)*  
+“Get some rest, Jon.”  
 
-*Then, a flicker of something—*a memory? A thought?*—passes through his mind. But before he can grasp it, the moment slips away.*
+She exits, the sound of her footsteps fading into the distance. The door shuts behind her, leaving Jonathan alone in the dimly lit office.
 
-*Jonathan exhales sharply, snapping back to the present. He blinks a few times, shifting in his chair as if waking from a deep fog. He rubs a hand over his face, trying to mask the unease settling in his bones.*
+---
 
-**TESSA** *(watching him closely)*  
-“What just happened?”  
+## **INT. EDENTECH – CYBERSECURITY DIVISION – MOMENTS LATER**
 
-*Jonathan swallows, his throat dry. He hesitates before answering, still processing what he felt—or almost remembered.*
+The silence in the office deepens, stretching unnaturally long. Jonathan shifts in his seat, his fingers hovering over the keyboard. His mind races, but he isn’t thinking about the code on his screen anymore.
 
-**JONATHAN** *(quietly, almost to himself)*  
-“I don’t know… but I think I’ve seen it before.”  
+He swallows, his throat suddenly dry. A strange, nagging sensation tugs at him—an itch in his brain, an invisible pull tightening in his chest. He looks back at the screen.
 
-*A heavy silence lingers between them.*
+The breastplate remains frozen in the footage, its twelve stones dull and lifeless. And yet, something about it refuses to let go of his attention. The more he stares, the more it seems to **loom larger** in his mind.
 
-*Tessa, for once, has no joke to offer. She just watches him, an uneasy feeling creeping into her chest.*
+The hum of the monitors dulls, a static-like pressure building in the back of his skull. His breath shallows. His pulse pounds.
+
+His chair scrapes against the floor as he **suddenly stands**. He doesn’t know why—his body simply **moves on its own.** He grabs his badge, his feet already carrying him toward the door before his mind can catch up.
+
+---
+
+## **INT. EDENTECH – HALLWAY – MOMENTS LATER**
+
+Jonathan walks slowly, almost absently, through the corridor. The dim lighting overhead flickers slightly, casting elongated shadows across the walls. His feet move of their own accord, leading him toward the **restricted research lab.**
+
+He stops in front of the **security doors**, staring at the keypad.
+
+His hand hovers over his badge, fingers tightening around it. His breath slows as the pull intensifies—an invisible force **urging him forward**. His pulse pounds against his ribs. His body tenses as he lifts the badge toward the scanner—
+
+But at the last moment, he stops.
+
+His fingers curl into fists. He presses a hand against the cold metal of the door, his pulse still pounding. A shiver runs through him. He doesn’t know what he expected—but he knows this wasn’t it.
+
+Jonathan takes a slow step back, shaking his head. Maybe he’s losing it. Maybe he just needs sleep.
+
+He turns on his heel, heading down the corridor toward the elevators. The weight in his chest lingers, but he forces himself forward.
+
+---
+
+## **INT. JONATHAN'S APARTMENT – NIGHT**
+
+Jonathan steps into his dimly lit apartment, the city’s faint glow filtering through the windows. He tosses his bag onto the counter, rubbing a hand over his face.
+
+For a moment, he just **stands there.** The silence feels heavier than usual.
+
+He exhales, shaking his head as he moves toward his bedroom. The pull is still there, faint, lingering in the back of his mind. But the door wouldn’t open. There was nothing more he could do tonight.
+
+As he lays down, his mind refuses to settle. The **image of the breastplate** stays burned into his vision, its stones dull yet somehow… **watching him.**
+
+His eyes drift shut, but sleep does not come easily.
 
 ---
 
 ## **FADE TO BLACK.**
-
 ---
 
+
+---
 # **PLACEHOLDER: Chapter 3 - Scene 1**
 
 *TBD*

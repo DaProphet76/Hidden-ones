@@ -1127,25 +1127,57 @@ His voice is hoarse. Hollow.
 
 # **FADE IN:**
 
+## **INT. TELEVISION SCREEN – GLOBAL NEWS BROADCAST**
+
+*A sleek, modern news studio. The screen flickers with multiple live feeds—reporters on the ground, political debates, grainy footage of conflicts. A well-dressed anchorwoman, poised and professional, reads from the teleprompter as images flash behind her.*
+
+**ANCHORWOMAN**  
+*(somber, yet composed)*  
+"Tensions in the Middle East continue to escalate as violence erupts between Palestinian forces and Israeli defense troops. Experts warn that this latest clash could have severe global repercussions."
+
+*A cut to footage of bombed-out streets, smoke rising in the background, civilians running for cover.*
+
+**ANCHORWOMAN**  
+"Meanwhile, in the United States, the upcoming presidential election heats up as former President Donald Trump and Vice President Kamala Harris continue their campaign tours, each vying for control over a divided nation. Polls show deep partisan fractures, raising concerns over potential civil unrest."
+
+*A split screen shows Trump addressing a raucous rally, fist raised, while Harris shakes hands at a community center.*
+
+**ANCHORWOMAN**  
+"In economic news, global supply chain shortages persist, leading to widespread food insecurity. Prices for essential goods continue to climb, leaving millions struggling to afford basic necessities. Analysts predict worsening conditions as international trade agreements falter."
+
+*Images of empty grocery store shelves, frustrated customers, and long food bank lines flash across the screen.*
+
+**ANCHORWOMAN**  
+"And in the United States, another shocking incident of police brutality has surfaced. Bodycam footage shows an officer pinning a Black man to the ground, leading to his death. The officer was later caught on tape boasting about his prowess in bar fights, sparking nationwide protests. Civil rights groups are demanding immediate action."
+
+*A disturbing clip plays: the officer, arms crossed, smirking as he speaks to colleagues. Crowds gather in the streets, fists raised, voices shouting for justice.*
+
+**ANCHORWOMAN**  
+"In other news, Planned Parenthood has launched a new outreach campaign targeted toward African American communities. Officials claim it is designed to provide 'better access to reproductive healthcare,' but some activists question the motives behind the push."
+
+*A glossy, upbeat commercial plays—smiling Black women in white coats, embracing young mothers, friendly narration encouraging 'choice' and 'family planning.' The screen fades to black.*
+
+---
+
 ## **INT. UNKNOWN LOCATION – DIMLY LIT ROOM – NIGHT**
 
 *A vast, dimly lit chamber. Shadows stretch across the walls, cast by a single flickering chandelier overhead. The architecture is ancient—gothic columns, vaulted ceilings, and aged stone floors that bear the weight of countless secrets. A long, mahogany table sits at the center, surrounded by figures cloaked in darkness. Their faces remain obscured, but their presence is palpable.*
 
-*Low murmurs settle as a voice, deep and authoritative, cuts through the room.*
+*The screen from the news broadcast fades to black, its reflection lingering in the polished table. A slow ripple of satisfaction moves through the room—some figures smirk, others quietly nod in approval.*
 
 **FIRST FIGURE**  
+*(leaning back, amused)*  
+"See? The cycle continues as planned. They cry out for justice, yet turn to the very systems we have built to suppress them."
+
+**SECOND FIGURE**  
 *(calm, measured)*  
 "The world moves as we have willed it. Their minds are shaped, their history rewritten. Yet, there are... murmurs."
 
 *A rustle among the figures, a shift in the atmosphere.*
 
-**SECOND FIGURE**  
+**THIRD FIGURE**  
 *(a low, rasping voice)*  
 "Murmurs lead to echoes, and echoes become a storm. We have spent centuries ensuring they do not awaken. Have our methods weakened?"
-
-**THIRD FIGURE**  
-*(sharply)*  
-"Not weakened—merely tested. There are always those who refuse their station. But even they must bow to what they do not understand."
 
 **FOURTH FIGURE**  
 *(mocking, amused)*  
@@ -1176,26 +1208,26 @@ His voice is hoarse. Hollow.
 "It is not enough to silence a voice. A silenced voice becomes a martyr. No, they must be *led*—guided to believe that what they seek is folly. That their past is meaningless."
 
 **FIRST FIGURE**  
-*(reflective)*  
-"A people without history... is a people without identity. And a people without identity... are cattle, ripe for direction."
+*(thoughtful)*  
+"And our search? The relic?"
 
-*A low hum of agreement rumbles through the room. The plan has worked for centuries—why should now be any different?*
-
-**FIFTH FIGURE**  
-*(skeptical)*  
-"Then explain why the murmurs persist. Explain why, despite every measure, some still find the path back."
+**THIRD FIGURE**  
+*(calm, deliberate)*  
+"Sites in the Levant and Mesopotamia yielded nothing of substance. The dig in South America was... promising, but inconclusive. The retrieval in Northern Africa showed remnants, but not what we seek. Excavations in Central Asia have turned up artifacts of interest, but they are not definitive."
 
 **FOURTH FIGURE**  
-*(calm, yet firm)*  
-"Because the past calls to them. And something... or *someone*... has begun to stir the waters."
+*(with satisfaction)*  
+"Europe has yielded traces—objects of significant age, but nothing conclusive. Every site takes us closer, yet just out of reach."
 
-*The air grows heavy. The weight of those words lingers. A silent understanding spreads among them—there is more at play than mere chance.*
+**SIXTH FIGURE**  
+*(gravelly, intrigued)*  
+"And if the true piece remains hidden?"
 
-**TENTH FIGURE**  
-*(after a pause, resolute)*  
-"Then we must move swiftly. Influence their leaders, shape their narratives. If they begin to seek, ensure they find only the doors we build for them. Keep their scholars indebted, their movements fragmented, their truths buried beneath the sands of irrelevance."
+**FIFTH FIGURE**  
+*(chuckling lightly)*  
+"Then we ensure no one else finds it before we do."
 
-*A chorus of approval follows. The meeting is drawing to a close, but the unseen battle continues.*
+*A murmur of approval spreads through the room. The unseen battle continues.*
 
 **FIRST FIGURE**  
 *(final, with certainty)*  
@@ -1207,8 +1239,9 @@ His voice is hoarse. Hollow.
 
 
 
-
 ---
+
+
 
 # **Chapter 2: Scene 2**
 
@@ -1306,7 +1339,7 @@ He exhales, shaking his head as he moves toward his bedroom. The pull is still t
 
 As he lays down, his mind refuses to settle. The **image of the breastplate** stays burned into his vision, its stones dull yet somehow… **watching him.**
 
-His eyes drift shut, but sleep does not come easily.
+His eyes drift shut, then sleep arrives, easily.
 
 ---
 

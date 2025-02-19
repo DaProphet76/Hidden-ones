@@ -3,10 +3,10 @@
 ## **Table of Contents**
 1. **Chapter 1**
    - [Scene 1: EXT. Jerusalem – Herod’s Temple Dig Site – Night](#chapter-1-scene-1)
-   - [Scene 2: INT. Unknown Temple – Dream Sequence](#chapter-1-scene-2)
+   - [Scene 2: INT. UNDERGROUND CHAMBER – DREAM SEQUENCE](#chapter-1-scene-2)
    - [Scene 3: INT. Bedroom – Night](#chapter-1-scene-3)
-   - [Scene 4: INT. EdenTech Headquarters – Main Lobby – Morning](#chapter-1-scene-4)
-   - [Scene 5: INT. EdenTech Headquarters – Executive Conference Room – Morning](#chapter-1-scene-5)
+   - [Scene 4: EXT. EDENTECH HEADQUARTERS – ROOFTOP – EARLY MORNING](#chapter-1-scene-4)
+   - [Scene 5: INT. EDENTECH HEADQUARTERS – EXECUTIVE CONFERENCE ROOM – MORNING](#chapter-1-scene-5)
    - [Scene 6: INT. EdenTech – Cybersecurity Division – Afternoon](#chapter-1-scene-6)
    - [Scene 7: INT. JONATHAN & REBECCA’S APARTMENT – NIGHT](#chapter-1-scene-7)
 2. **Chapter 2**

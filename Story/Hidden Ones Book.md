@@ -48,7 +48,7 @@
 *Strauss exhales, adjusting his glasses as the projection zooms in on the **inner court.** His voice is measured, but there’s something **distant** in his tone.*  
 
 **DR. STRAUSS** *(quietly)*  
-*"It was a monument to power. Built not by a king of divine appointment, but by an **Edomite ruling in the place of Israelites.** A man whose bloodline was only permitted rule because of **forced conversion generations prior.**"*  
+*"It was a monument to power. Built not by a king of divine appointment, but by an **Edomite ruling in the place of Israelites.** A man whose bloodline was only permitted rulership because of a marriage into the royal family, after his people were **forced into conversion generations prior.**"*  
 
 *Mendez tilts her head slightly, intrigued.*  
 
